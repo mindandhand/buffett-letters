@@ -1,0 +1,68 @@
+{
+  "method": "Parenthetical source figures above6 or with decimal points compared with target parentheses/negative signs; matching at year level handles legacy table anchor boundaries. Ordinary parentheses/numbered items manually adjudicated. This is candidate detection, not a proof of every table cell.",
+  "candidates": [
+    {
+      "year": 1982,
+      "ref": "B119",
+      "values": {
+        "17": 1
+      },
+      "resolution": "17%为总部面积增加的普通括注，非负数。",
+      "status": "closed"
+    },
+    {
+      "year": 2003,
+      "ref": "P06",
+      "values": {
+        "1983": 1
+      },
+      "resolution": "1983为例外年份，非负数。",
+      "status": "closed"
+    },
+    {
+      "year": 2009,
+      "ref": "P13",
+      "values": {
+        "22.5": 1
+      },
+      "resolution": "22.5%为BNSF正持股比例，译文明确写持股比例。",
+      "status": "closed"
+    },
+    {
+      "year": 2013,
+      "ref": "P12",
+      "values": {
+        "1972": 1
+      },
+      "resolution": "1972为引文出版年份，非负数。",
+      "status": "closed"
+    },
+    {
+      "year": 2014,
+      "ref": "P39",
+      "values": {
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1
+      },
+      "resolution": "括号7—15为芒格清单编号，非财务负数。",
+      "status": "closed"
+    },
+    {
+      "year": 2022,
+      "ref": "P07",
+      "values": {
+        "48": 1
+      },
+      "resolution": "48%为个人所得税占比的普通括注，非负数。",
+      "status": "closed"
+    }
+  ],
+  "unresolved": []
+}

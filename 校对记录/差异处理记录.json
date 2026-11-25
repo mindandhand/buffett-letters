@@ -1,0 +1,1625 @@
+[
+  {
+    "year": 1977,
+    "ref": "B029",
+    "initial_flag": {
+      "year": 1977,
+      "ref": "B029",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "0": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 1978,
+    "ref": "B039",
+    "initial_flag": {
+      "year": 1978,
+      "ref": "B039",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "0": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 1979,
+    "ref": "B047",
+    "initial_flag": {
+      "year": 1979,
+      "ref": "B047",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "0": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 1980,
+    "ref": "B040",
+    "initial_flag": {
+      "year": 1980,
+      "ref": "B040",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "0": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 1981,
+    "ref": "B063",
+    "initial_flag": {
+      "year": 1981,
+      "ref": "B063",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "0": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 1984,
+    "ref": "B011",
+    "initial_flag": {
+      "year": 1984,
+      "ref": "B011",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "0": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 1984,
+    "ref": "B043",
+    "initial_flag": {
+      "year": 1984,
+      "ref": "B043",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {},
+      "extra": {
+        "12": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 1985,
+    "ref": "B105",
+    "initial_flag": {
+      "year": 1985,
+      "ref": "B105",
+      "scaled": [
+        {
+          "source_phrase": "2 billion",
+          "normalized_value": "2000000000"
+        },
+        {
+          "source_phrase": "2 billion",
+          "normalized_value": "2000000000"
+        }
+      ],
+      "low_length_ratio": false,
+      "missing": {
+        "2": 1,
+        "1": 2,
+        "2000000000": 2,
+        "3": 1
+      },
+      "extra": {
+        "2500000000": 1,
+        "3500000000": 1
+      }
+    },
+    "resolution": "numeric_notation_false_positive",
+    "reason": "原文$2 1/2 billion、$3 1/2 billion为25亿、35亿美元。初版程序把分母2误当整数；译稿正确。",
+    "status": "closed"
+  },
+  {
+    "year": 1990,
+    "ref": "B093/B094",
+    "initial_flag": {
+      "year": 1990,
+      "ref": "B093/B094",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {},
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 1990,
+    "ref": "B220/B221/B222/B223/B224/B225/B226/B227/B228/B229/B230/B231/B232/B233/B234/B235/B236/B237/B238/B239/B240/B241/B242/B243/B244/B245/B246/B247/B248/B249/B250/B251/B252/B253/B254",
+    "initial_flag": {
+      "year": 1990,
+      "ref": "B220/B221/B222/B223/B224/B225/B226/B227/B228/B229/B230/B231/B232/B233/B234/B235/B236/B237/B238/B239/B240/B241/B242/B243/B244/B245/B246/B247/B248/B249/B250/B251/B252/B253/B254",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {},
+      "extra": {
+        "1935": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 1990,
+    "ref": "B256/B257/B258/B259/B260/B261/B262/B263/B264/B265/B266/B267/B268",
+    "initial_flag": {
+      "year": 1990,
+      "ref": "B256/B257/B258/B259/B260/B261/B262/B263/B264/B265/B266/B267/B268",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {},
+      "extra": {
+        "1935": 1,
+        "12": 1,
+        "31": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 1990,
+    "ref": "B269/B270/B271/B272/B273/B274/B275/B276/B277/B278/B279/B280/B281/B282/B283/B284/B285",
+    "initial_flag": {
+      "year": 1990,
+      "ref": "B269/B270/B271/B272/B273/B274/B275/B276/B277/B278/B279/B280/B281/B282/B283/B284/B285",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {},
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 1991,
+    "ref": "B078/B079",
+    "initial_flag": {
+      "year": 1991,
+      "ref": "B078/B079",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {},
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 1992,
+    "ref": "B059/B060",
+    "initial_flag": {
+      "year": 1992,
+      "ref": "B059/B060",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "1": 2,
+        "2": 2
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 1993,
+    "ref": "B061/B062",
+    "initial_flag": {
+      "year": 1993,
+      "ref": "B061/B062",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {},
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 1994,
+    "ref": "B083/B084",
+    "initial_flag": {
+      "year": 1994,
+      "ref": "B083/B084",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {},
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 1995,
+    "ref": "B064/B065",
+    "initial_flag": {
+      "year": 1995,
+      "ref": "B064/B065",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {},
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 1996,
+    "ref": "B042/B043",
+    "initial_flag": {
+      "year": 1996,
+      "ref": "B042/B043",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "1": 2,
+        "2": 2
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 1997,
+    "ref": "B043/B044",
+    "initial_flag": {
+      "year": 1997,
+      "ref": "B043/B044",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {},
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 1997,
+    "ref": "B075",
+    "initial_flag": {
+      "year": 1997,
+      "ref": "B075",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {},
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 1998,
+    "ref": "P09",
+    "initial_flag": {
+      "year": 1998,
+      "ref": "P09",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {},
+      "extra": {
+        "2": 2,
+        "8": 1,
+        "7": 1,
+        "12": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 1998,
+    "ref": "P10",
+    "initial_flag": {
+      "year": 1998,
+      "ref": "P10",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "98": 1
+      },
+      "extra": {
+        "1998": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 1999,
+    "ref": "P02",
+    "initial_flag": {
+      "year": 1999,
+      "ref": "P02",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {},
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 1999,
+    "ref": "P11",
+    "initial_flag": {
+      "year": 1999,
+      "ref": "P11",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {},
+      "extra": {
+        "11": 1,
+        "8": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 1999,
+    "ref": "P13",
+    "initial_flag": {
+      "year": 1999,
+      "ref": "P13",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "99": 1
+      },
+      "extra": {
+        "1999": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2000,
+    "ref": "P01",
+    "initial_flag": {
+      "year": 2000,
+      "ref": "P01",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "500": 1,
+        "15": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2001,
+    "ref": "P01",
+    "initial_flag": {
+      "year": 2001,
+      "ref": "P01",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "500": 1,
+        "15": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2001,
+    "ref": "P17",
+    "initial_flag": {
+      "year": 2001,
+      "ref": "P17",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {},
+      "extra": {
+        "5": 4
+      }
+    },
+    "resolution": "prose_density_reviewed_and_wording_corrected",
+    "reason": "全文对照年会安排、时段、电话、折扣、营业时间及桥牌/国际象棋内容；未发现漏段。修正时间范围及棋类名称，并补足部分句法。",
+    "status": "closed"
+  },
+  {
+    "year": 2002,
+    "ref": "P01",
+    "initial_flag": {
+      "year": 2002,
+      "ref": "P01",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "500": 1,
+        "15": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2003,
+    "ref": "P01",
+    "initial_flag": {
+      "year": 2003,
+      "ref": "P01",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "500": 1,
+        "15": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2004,
+    "ref": "P01",
+    "initial_flag": {
+      "year": 2004,
+      "ref": "P01",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "500": 1,
+        "15": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2004,
+    "ref": "P06",
+    "initial_flag": {
+      "year": 2004,
+      "ref": "P06",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {},
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2004,
+    "ref": "P13",
+    "initial_flag": {
+      "year": 2004,
+      "ref": "P13",
+      "scaled": [
+        {
+          "source_phrase": "10 million",
+          "normalized_value": "10000000"
+        }
+      ],
+      "low_length_ratio": false,
+      "missing": {
+        "10000000": 1
+      },
+      "extra": {}
+    },
+    "resolution": "numeric_notation_false_positive",
+    "reason": "10 million译为一千万，单位为打，并非金额；阿拉伯数字比较的误报。",
+    "status": "closed"
+  },
+  {
+    "year": 2004,
+    "ref": "P17",
+    "initial_flag": {
+      "year": 2004,
+      "ref": "P17",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {},
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2005,
+    "ref": "P01",
+    "initial_flag": {
+      "year": 2005,
+      "ref": "P01",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "500": 2,
+        "15": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2006,
+    "ref": "P01",
+    "initial_flag": {
+      "year": 2006,
+      "ref": "P01",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "500": 2,
+        "15": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2007,
+    "ref": "P01",
+    "initial_flag": {
+      "year": 2007,
+      "ref": "P01",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "500": 2,
+        "15": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2008,
+    "ref": "P01",
+    "initial_flag": {
+      "year": 2008,
+      "ref": "P01",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "500": 2,
+        "15": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2008,
+    "ref": "P04",
+    "initial_flag": {
+      "year": 2008,
+      "ref": "P04",
+      "scaled": [
+        {
+          "source_phrase": "2  billion",
+          "normalized_value": "2000000000"
+        }
+      ],
+      "low_length_ratio": false,
+      "missing": {
+        "11": 1,
+        "2000000000": 1
+      },
+      "extra": {
+        "1500000000": 1
+      }
+    },
+    "resolution": "numeric_notation_false_positive",
+    "reason": "PDF文本层11⁄2 billion表示1½ billion，译为15亿美元正确。",
+    "status": "closed"
+  },
+  {
+    "year": 2008,
+    "ref": "P05",
+    "initial_flag": {
+      "year": 2008,
+      "ref": "P05",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "72": 1,
+        "70": 1
+      },
+      "extra": {
+        "72000000": 1,
+        "70000000": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2008,
+    "ref": "P14",
+    "initial_flag": {
+      "year": 2008,
+      "ref": "P14",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "8": 1
+      },
+      "extra": {
+        "2008": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2009,
+    "ref": "P01",
+    "initial_flag": {
+      "year": 2009,
+      "ref": "P01",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "500": 2,
+        "15": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2009,
+    "ref": "P08",
+    "initial_flag": {
+      "year": 2009,
+      "ref": "P08",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "38": 1,
+        "72": 1
+      },
+      "extra": {
+        "38000000": 1,
+        "72000000": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2009,
+    "ref": "P09",
+    "initial_flag": {
+      "year": 2009,
+      "ref": "P09",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "9": 1
+      },
+      "extra": {
+        "2009": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2009,
+    "ref": "P13",
+    "initial_flag": {
+      "year": 2009,
+      "ref": "P13",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "9": 1
+      },
+      "extra": {
+        "2009": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2010,
+    "ref": "P01",
+    "initial_flag": {
+      "year": 2010,
+      "ref": "P01",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "500": 2,
+        "15": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2010,
+    "ref": "P04",
+    "initial_flag": {
+      "year": 2010,
+      "ref": "P04",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {},
+      "extra": {
+        "9": 2,
+        "12": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2010,
+    "ref": "P11",
+    "initial_flag": {
+      "year": 2010,
+      "ref": "P11",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "10": 1
+      },
+      "extra": {
+        "2010": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2010,
+    "ref": "P14",
+    "initial_flag": {
+      "year": 2010,
+      "ref": "P14",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "43": 1,
+        "19": 1,
+        "38": 1,
+        "10": 1
+      },
+      "extra": {
+        "2010": 1,
+        "19000000": 1,
+        "38000000": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2010,
+    "ref": "P16",
+    "initial_flag": {
+      "year": 2010,
+      "ref": "P16",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {},
+      "extra": {
+        "2010": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2011,
+    "ref": "P01",
+    "initial_flag": {
+      "year": 2011,
+      "ref": "P01",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "500": 2,
+        "15": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2011,
+    "ref": "P06",
+    "initial_flag": {
+      "year": 2011,
+      "ref": "P06",
+      "scaled": [
+        {
+          "source_phrase": "2 billion",
+          "normalized_value": "2000000000"
+        }
+      ],
+      "low_length_ratio": false,
+      "missing": {
+        "11": 1,
+        "2000000000": 1
+      },
+      "extra": {
+        "20": 1,
+        "1500000000": 1
+      }
+    },
+    "resolution": "numeric_notation_false_positive",
+    "reason": "PDF文本层11⁄2 billion表示1½ billion，译为15亿美元正确。",
+    "status": "closed"
+  },
+  {
+    "year": 2011,
+    "ref": "P10",
+    "initial_flag": {
+      "year": 2011,
+      "ref": "P10",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "8": 1,
+        "43": 1,
+        "19": 1,
+        "10": 1
+      },
+      "extra": {
+        "2010": 1,
+        "8000000": 1,
+        "19000000": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2011,
+    "ref": "P11",
+    "initial_flag": {
+      "year": 2011,
+      "ref": "P11",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "11": 1
+      },
+      "extra": {
+        "2011": 1,
+        "9": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2011,
+    "ref": "P15",
+    "initial_flag": {
+      "year": 2011,
+      "ref": "P15",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "11": 1
+      },
+      "extra": {
+        "2011": 1,
+        "3": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2012,
+    "ref": "P01",
+    "initial_flag": {
+      "year": 2012,
+      "ref": "P01",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "500": 2,
+        "15": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2012,
+    "ref": "P10",
+    "initial_flag": {
+      "year": 2012,
+      "ref": "P10",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {},
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2012,
+    "ref": "P11",
+    "initial_flag": {
+      "year": 2012,
+      "ref": "P11",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "12": 1
+      },
+      "extra": {
+        "2012": 1,
+        "9": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2012,
+    "ref": "P14",
+    "initial_flag": {
+      "year": 2012,
+      "ref": "P14",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "12": 1
+      },
+      "extra": {
+        "2012": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2013,
+    "ref": "P01",
+    "initial_flag": {
+      "year": 2013,
+      "ref": "P01",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "500": 2,
+        "15": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2013,
+    "ref": "P11",
+    "initial_flag": {
+      "year": 2013,
+      "ref": "P11",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {},
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2013,
+    "ref": "P12",
+    "initial_flag": {
+      "year": 2013,
+      "ref": "P12",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "13": 1
+      },
+      "extra": {
+        "2013": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2013,
+    "ref": "P15",
+    "initial_flag": {
+      "year": 2013,
+      "ref": "P15",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "13": 1
+      },
+      "extra": {
+        "2013": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2014,
+    "ref": "P01",
+    "initial_flag": {
+      "year": 2014,
+      "ref": "P01",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "500": 2,
+        "15": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2014,
+    "ref": "P12",
+    "initial_flag": {
+      "year": 2014,
+      "ref": "P12",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {},
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2014,
+    "ref": "P13",
+    "initial_flag": {
+      "year": 2014,
+      "ref": "P13",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "14": 1
+      },
+      "extra": {
+        "2014": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2014,
+    "ref": "P16",
+    "initial_flag": {
+      "year": 2014,
+      "ref": "P16",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "14": 1
+      },
+      "extra": {
+        "2014": 1,
+        "9": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2015,
+    "ref": "P01",
+    "initial_flag": {
+      "year": 2015,
+      "ref": "P01",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "500": 2,
+        "15": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2015,
+    "ref": "P13",
+    "initial_flag": {
+      "year": 2015,
+      "ref": "P13",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {},
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2015,
+    "ref": "P14",
+    "initial_flag": {
+      "year": 2015,
+      "ref": "P14",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "15": 1
+      },
+      "extra": {
+        "2015": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2015,
+    "ref": "P19",
+    "initial_flag": {
+      "year": 2015,
+      "ref": "P19",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "15": 1
+      },
+      "extra": {
+        "2015": 1,
+        "9": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2016,
+    "ref": "P01",
+    "initial_flag": {
+      "year": 2016,
+      "ref": "P01",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "500": 2,
+        "15": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2017,
+    "ref": "P01",
+    "initial_flag": {
+      "year": 2017,
+      "ref": "P01",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "500": 2,
+        "15": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2017,
+    "ref": "P08",
+    "initial_flag": {
+      "year": 2017,
+      "ref": "P08",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "17": 1
+      },
+      "extra": {
+        "2017": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2018,
+    "ref": "P01",
+    "initial_flag": {
+      "year": 2018,
+      "ref": "P01",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "500": 2,
+        "15": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2018,
+    "ref": "P11",
+    "initial_flag": {
+      "year": 2018,
+      "ref": "P11",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "18": 1
+      },
+      "extra": {
+        "2018": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2019,
+    "ref": "P01",
+    "initial_flag": {
+      "year": 2019,
+      "ref": "P01",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "15": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2019,
+    "ref": "P09",
+    "initial_flag": {
+      "year": 2019,
+      "ref": "P09",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "19": 1,
+        "21": 1,
+        "2": 1
+      },
+      "extra": {
+        "2019": 1,
+        "12": 1,
+        "2.5": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2020,
+    "ref": "P01",
+    "initial_flag": {
+      "year": 2020,
+      "ref": "P01",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "15": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2020,
+    "ref": "P06",
+    "initial_flag": {
+      "year": 2020,
+      "ref": "P06",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "21": 1,
+        "2": 1,
+        "20": 1
+      },
+      "extra": {
+        "7": 1,
+        "2020": 1,
+        "12": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2021,
+    "ref": "P01",
+    "initial_flag": {
+      "year": 2021,
+      "ref": "P01",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "15": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2021,
+    "ref": "P06",
+    "initial_flag": {
+      "year": 2021,
+      "ref": "P06",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "21": 1
+      },
+      "extra": {
+        "2021": 1
+      }
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2022,
+    "ref": "P01",
+    "initial_flag": {
+      "year": 2022,
+      "ref": "P01",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "15": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2023,
+    "ref": "P11",
+    "initial_flag": {
+      "year": 2023,
+      "ref": "P11",
+      "scaled": [
+        {
+          "source_phrase": "2 billion",
+          "normalized_value": "2000000000"
+        }
+      ],
+      "low_length_ratio": false,
+      "missing": {
+        "14": 1,
+        "11": 1,
+        "2000000000": 1,
+        "100": 1
+      },
+      "extra": {
+        "1500000000": 1
+      }
+    },
+    "resolution": "numeric_notation_false_positive",
+    "reason": "PDF文本层11⁄2 billion表示1½ billion，译为每年超过15亿美元正确。",
+    "status": "closed"
+  },
+  {
+    "year": 2023,
+    "ref": "P16",
+    "initial_flag": {
+      "year": 2023,
+      "ref": "P16",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "15": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2024,
+    "ref": "P09",
+    "initial_flag": {
+      "year": 2024,
+      "ref": "P09",
+      "scaled": [
+        {
+          "source_phrase": "300 million",
+          "normalized_value": "300000000"
+        }
+      ],
+      "low_length_ratio": false,
+      "missing": {
+        "30": 1,
+        "50": 1,
+        "300000000": 1
+      },
+      "extra": {}
+    },
+    "resolution": "numeric_notation_false_positive",
+    "reason": "300 million辆汽车译为三亿辆；中文数字误报，并非金额。",
+    "status": "closed"
+  },
+  {
+    "year": 2024,
+    "ref": "P14",
+    "initial_flag": {
+      "year": 2024,
+      "ref": "P14",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {
+        "15": 1
+      },
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  },
+  {
+    "year": 2024,
+    "ref": "P15",
+    "initial_flag": {
+      "year": 2024,
+      "ref": "P15",
+      "scaled": [],
+      "low_length_ratio": true,
+      "missing": {},
+      "extra": {}
+    },
+    "resolution": "table_density_not_omission_evidence",
+    "reason": "本对应单元含完整数值表格。英文表头、点线及数值使字数比失真；表格结构和逐年数值来源检查通过，未据长度阈值认定漏译。",
+    "status": "closed"
+  }
+]

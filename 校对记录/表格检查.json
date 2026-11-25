@@ -1,0 +1,2484 @@
+[
+  {
+    "year": 1977,
+    "table": 1,
+    "rows": 12,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1978,
+    "table": 1,
+    "rows": 16,
+    "columns": 7,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1978,
+    "table": 2,
+    "rows": 11,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1979,
+    "table": 1,
+    "rows": 17,
+    "columns": 7,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1979,
+    "table": 2,
+    "rows": 16,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1980,
+    "table": 1,
+    "rows": 18,
+    "columns": 7,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1980,
+    "table": 2,
+    "rows": 21,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1981,
+    "table": 1,
+    "rows": 17,
+    "columns": 7,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1981,
+    "table": 2,
+    "rows": 18,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1981,
+    "table": 3,
+    "rows": 10,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1982,
+    "table": 1,
+    "rows": 15,
+    "columns": 7,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1982,
+    "table": 2,
+    "rows": 14,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1982,
+    "table": 3,
+    "rows": 11,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1983,
+    "table": 1,
+    "rows": 19,
+    "columns": 7,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1983,
+    "table": 2,
+    "rows": 13,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1983,
+    "table": 3,
+    "rows": 8,
+    "columns": 2,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1983,
+    "table": 4,
+    "rows": 12,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1983,
+    "table": 5,
+    "rows": 12,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1984,
+    "table": 1,
+    "rows": 20,
+    "columns": 7,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1984,
+    "table": 2,
+    "rows": 13,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1984,
+    "table": 3,
+    "rows": 13,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1984,
+    "table": 4,
+    "rows": 13,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1984,
+    "table": 5,
+    "rows": 5,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1985,
+    "table": 1,
+    "rows": 20,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1985,
+    "table": 2,
+    "rows": 14,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1985,
+    "table": 3,
+    "rows": 10,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1986,
+    "table": 1,
+    "rows": 20,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1986,
+    "table": 2,
+    "rows": 6,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1986,
+    "table": 3,
+    "rows": 7,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1986,
+    "table": 4,
+    "rows": 8,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1986,
+    "table": 5,
+    "rows": 18,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1986,
+    "table": 6,
+    "rows": 21,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1987,
+    "table": 1,
+    "rows": 18,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1987,
+    "table": 2,
+    "rows": 7,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1987,
+    "table": 3,
+    "rows": 3,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1988,
+    "table": 1,
+    "rows": 18,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1988,
+    "table": 2,
+    "rows": 8,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1988,
+    "table": 3,
+    "rows": 5,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1989,
+    "table": 1,
+    "rows": 18,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1989,
+    "table": 2,
+    "rows": 9,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1989,
+    "table": 3,
+    "rows": 5,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1990,
+    "table": 1,
+    "rows": 18,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1990,
+    "table": 2,
+    "rows": 10,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1990,
+    "table": 3,
+    "rows": 24,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1990,
+    "table": 4,
+    "rows": 6,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1990,
+    "table": 5,
+    "rows": 10,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1990,
+    "table": 6,
+    "rows": 6,
+    "columns": 2,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1990,
+    "table": 7,
+    "rows": 8,
+    "columns": 2,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1991,
+    "table": 1,
+    "rows": 19,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1991,
+    "table": 2,
+    "rows": 11,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1991,
+    "table": 3,
+    "rows": 5,
+    "columns": 2,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1991,
+    "table": 4,
+    "rows": 11,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1991,
+    "table": 5,
+    "rows": 25,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1991,
+    "table": 6,
+    "rows": 8,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1991,
+    "table": 7,
+    "rows": 8,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1992,
+    "table": 1,
+    "rows": 19,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1992,
+    "table": 2,
+    "rows": 13,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1992,
+    "table": 3,
+    "rows": 12,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1992,
+    "table": 4,
+    "rows": 26,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1992,
+    "table": 5,
+    "rows": 9,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1992,
+    "table": 6,
+    "rows": 7,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1993,
+    "table": 1,
+    "rows": 19,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1993,
+    "table": 2,
+    "rows": 13,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1993,
+    "table": 3,
+    "rows": 27,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1993,
+    "table": 4,
+    "rows": 9,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1994,
+    "table": 1,
+    "rows": 9,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1994,
+    "table": 2,
+    "rows": 9,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1994,
+    "table": 3,
+    "rows": 20,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1994,
+    "table": 4,
+    "rows": 14,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1994,
+    "table": 5,
+    "rows": 28,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1994,
+    "table": 6,
+    "rows": 10,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1995,
+    "table": 1,
+    "rows": 5,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1995,
+    "table": 2,
+    "rows": 29,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1995,
+    "table": 3,
+    "rows": 20,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1995,
+    "table": 4,
+    "rows": 9,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1995,
+    "table": 5,
+    "rows": 5,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1996,
+    "table": 1,
+    "rows": 7,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1996,
+    "table": 2,
+    "rows": 30,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1996,
+    "table": 3,
+    "rows": 20,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1996,
+    "table": 4,
+    "rows": 12,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1996,
+    "table": 5,
+    "rows": 10,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1997,
+    "table": 1,
+    "rows": 4,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1997,
+    "table": 2,
+    "rows": 4,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1997,
+    "table": 3,
+    "rows": 31,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1997,
+    "table": 4,
+    "rows": 5,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1997,
+    "table": 5,
+    "rows": 20,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1997,
+    "table": 6,
+    "rows": 11,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1997,
+    "table": 7,
+    "rows": 10,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1998,
+    "table": 1,
+    "rows": 4,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1998,
+    "table": 2,
+    "rows": 4,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1998,
+    "table": 3,
+    "rows": 6,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed_with_documented_text_layer_exception",
+    "exception_values": [
+      "354882",
+      "396217",
+      "461608",
+      "617669",
+      "913176"
+    ],
+    "exception": "GEICO表原件图像中的正确数字；PDF文本层多出前导1。沿用已有图像核对记录。"
+  },
+  {
+    "year": 1998,
+    "table": 4,
+    "rows": 8,
+    "columns": 2,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1998,
+    "table": 5,
+    "rows": 22,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1998,
+    "table": 6,
+    "rows": 9,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1999,
+    "table": 1,
+    "rows": 4,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1999,
+    "table": 2,
+    "rows": 4,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1999,
+    "table": 3,
+    "rows": 6,
+    "columns": 6,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1999,
+    "table": 4,
+    "rows": 7,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1999,
+    "table": 5,
+    "rows": 20,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1999,
+    "table": 6,
+    "rows": 11,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 1999,
+    "table": 7,
+    "rows": 8,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2000,
+    "table": 1,
+    "rows": 38,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2000,
+    "table": 2,
+    "rows": 7,
+    "columns": 6,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2000,
+    "table": 3,
+    "rows": 8,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2000,
+    "table": 4,
+    "rows": 7,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2000,
+    "table": 5,
+    "rows": 17,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2000,
+    "table": 6,
+    "rows": 11,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2001,
+    "table": 1,
+    "rows": 39,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2001,
+    "table": 2,
+    "rows": 8,
+    "columns": 6,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2001,
+    "table": 3,
+    "rows": 19,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2001,
+    "table": 4,
+    "rows": 9,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2002,
+    "table": 1,
+    "rows": 40,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2002,
+    "table": 2,
+    "rows": 9,
+    "columns": 6,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2002,
+    "table": 3,
+    "rows": 21,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2002,
+    "table": 4,
+    "rows": 10,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2003,
+    "table": 1,
+    "rows": 41,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2003,
+    "table": 2,
+    "rows": 9,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2003,
+    "table": 3,
+    "rows": 10,
+    "columns": 6,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2003,
+    "table": 4,
+    "rows": 6,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2003,
+    "table": 5,
+    "rows": 13,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2003,
+    "table": 6,
+    "rows": 11,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2003,
+    "table": 7,
+    "rows": 9,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2003,
+    "table": 8,
+    "rows": 6,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2003,
+    "table": 9,
+    "rows": 8,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2003,
+    "table": 10,
+    "rows": 12,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2003,
+    "table": 11,
+    "rows": 6,
+    "columns": 2,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2004,
+    "table": 1,
+    "rows": 42,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2004,
+    "table": 2,
+    "rows": 14,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2004,
+    "table": 3,
+    "rows": 25,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2004,
+    "table": 4,
+    "rows": 5,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2004,
+    "table": 5,
+    "rows": 11,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2004,
+    "table": 6,
+    "rows": 9,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2004,
+    "table": 7,
+    "rows": 6,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2004,
+    "table": 8,
+    "rows": 8,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2004,
+    "table": 9,
+    "rows": 12,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2004,
+    "table": 10,
+    "rows": 6,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2004,
+    "table": 11,
+    "rows": 26,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2005,
+    "table": 1,
+    "rows": 43,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2005,
+    "table": 2,
+    "rows": 7,
+    "columns": 2,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2005,
+    "table": 3,
+    "rows": 7,
+    "columns": 2,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2005,
+    "table": 4,
+    "rows": 5,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2005,
+    "table": 5,
+    "rows": 14,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2005,
+    "table": 6,
+    "rows": 10,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2005,
+    "table": 7,
+    "rows": 9,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2005,
+    "table": 8,
+    "rows": 6,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2005,
+    "table": 9,
+    "rows": 8,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2005,
+    "table": 10,
+    "rows": 14,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2006,
+    "table": 1,
+    "rows": 44,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2006,
+    "table": 2,
+    "rows": 7,
+    "columns": 2,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2006,
+    "table": 3,
+    "rows": 7,
+    "columns": 2,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2006,
+    "table": 4,
+    "rows": 5,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2006,
+    "table": 5,
+    "rows": 9,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2006,
+    "table": 6,
+    "rows": 6,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2006,
+    "table": 7,
+    "rows": 14,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2006,
+    "table": 8,
+    "rows": 10,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2006,
+    "table": 9,
+    "rows": 19,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2006,
+    "table": 10,
+    "rows": 14,
+    "columns": 2,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2007,
+    "table": 1,
+    "rows": 45,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2007,
+    "table": 2,
+    "rows": 4,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2007,
+    "table": 3,
+    "rows": 4,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2007,
+    "table": 4,
+    "rows": 5,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2007,
+    "table": 5,
+    "rows": 5,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2007,
+    "table": 6,
+    "rows": 5,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2007,
+    "table": 7,
+    "rows": 14,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2007,
+    "table": 8,
+    "rows": 9,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2007,
+    "table": 9,
+    "rows": 6,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2007,
+    "table": 10,
+    "rows": 8,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2007,
+    "table": 11,
+    "rows": 20,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2008,
+    "table": 1,
+    "rows": 46,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2008,
+    "table": 2,
+    "rows": 15,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2008,
+    "table": 3,
+    "rows": 5,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2008,
+    "table": 4,
+    "rows": 9,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2008,
+    "table": 5,
+    "rows": 6,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2008,
+    "table": 6,
+    "rows": 6,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2008,
+    "table": 7,
+    "rows": 16,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2009,
+    "table": 1,
+    "rows": 47,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2009,
+    "table": 2,
+    "rows": 5,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2009,
+    "table": 3,
+    "rows": 15,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2009,
+    "table": 4,
+    "rows": 9,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2009,
+    "table": 5,
+    "rows": 6,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2009,
+    "table": 6,
+    "rows": 9,
+    "columns": 2,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2009,
+    "table": 7,
+    "rows": 6,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2009,
+    "table": 8,
+    "rows": 15,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2009,
+    "table": 9,
+    "rows": 4,
+    "columns": 2,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2010,
+    "table": 1,
+    "rows": 48,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2010,
+    "table": 2,
+    "rows": 42,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2010,
+    "table": 3,
+    "rows": 5,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2010,
+    "table": 4,
+    "rows": 5,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2010,
+    "table": 5,
+    "rows": 5,
+    "columns": 2,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2010,
+    "table": 6,
+    "rows": 5,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2010,
+    "table": 7,
+    "rows": 9,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2010,
+    "table": 8,
+    "rows": 6,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2010,
+    "table": 9,
+    "rows": 12,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2010,
+    "table": 10,
+    "rows": 5,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2010,
+    "table": 11,
+    "rows": 5,
+    "columns": 2,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2010,
+    "table": 12,
+    "rows": 16,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2011,
+    "table": 1,
+    "rows": 49,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2011,
+    "table": 2,
+    "rows": 6,
+    "columns": 2,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2011,
+    "table": 3,
+    "rows": 5,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2011,
+    "table": 4,
+    "rows": 12,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2011,
+    "table": 5,
+    "rows": 5,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2011,
+    "table": 6,
+    "rows": 9,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2011,
+    "table": 7,
+    "rows": 6,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2011,
+    "table": 8,
+    "rows": 16,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2012,
+    "table": 1,
+    "rows": 50,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2012,
+    "table": 2,
+    "rows": 6,
+    "columns": 2,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2012,
+    "table": 3,
+    "rows": 5,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2012,
+    "table": 4,
+    "rows": 11,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2012,
+    "table": 5,
+    "rows": 6,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2012,
+    "table": 6,
+    "rows": 9,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2012,
+    "table": 7,
+    "rows": 6,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2012,
+    "table": 8,
+    "rows": 6,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2012,
+    "table": 9,
+    "rows": 17,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2013,
+    "table": 1,
+    "rows": 51,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2013,
+    "table": 2,
+    "rows": 6,
+    "columns": 2,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2013,
+    "table": 3,
+    "rows": 5,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2013,
+    "table": 4,
+    "rows": 11,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2013,
+    "table": 5,
+    "rows": 6,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2013,
+    "table": 6,
+    "rows": 9,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2013,
+    "table": 7,
+    "rows": 6,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2013,
+    "table": 8,
+    "rows": 6,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2013,
+    "table": 9,
+    "rows": 17,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2014,
+    "table": 1,
+    "rows": 52,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2014,
+    "table": 2,
+    "rows": 6,
+    "columns": 2,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2014,
+    "table": 3,
+    "rows": 5,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2014,
+    "table": 4,
+    "rows": 12,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2014,
+    "table": 5,
+    "rows": 6,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2014,
+    "table": 6,
+    "rows": 9,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2014,
+    "table": 7,
+    "rows": 6,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2014,
+    "table": 8,
+    "rows": 8,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2014,
+    "table": 9,
+    "rows": 17,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2015,
+    "table": 1,
+    "rows": 53,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2015,
+    "table": 2,
+    "rows": 6,
+    "columns": 2,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2015,
+    "table": 3,
+    "rows": 5,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2015,
+    "table": 4,
+    "rows": 14,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2015,
+    "table": 5,
+    "rows": 6,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2015,
+    "table": 6,
+    "rows": 9,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2015,
+    "table": 7,
+    "rows": 6,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2015,
+    "table": 8,
+    "rows": 8,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2015,
+    "table": 9,
+    "rows": 17,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2016,
+    "table": 1,
+    "rows": 54,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2016,
+    "table": 2,
+    "rows": 18,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2016,
+    "table": 3,
+    "rows": 6,
+    "columns": 2,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2016,
+    "table": 4,
+    "rows": 5,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2016,
+    "table": 5,
+    "rows": 6,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2016,
+    "table": 6,
+    "rows": 14,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2016,
+    "table": 7,
+    "rows": 9,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2016,
+    "table": 8,
+    "rows": 6,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2016,
+    "table": 9,
+    "rows": 8,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2016,
+    "table": 10,
+    "rows": 17,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2016,
+    "table": 11,
+    "rows": 10,
+    "columns": 7,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2017,
+    "table": 1,
+    "rows": 55,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2017,
+    "table": 2,
+    "rows": 6,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2017,
+    "table": 3,
+    "rows": 17,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2017,
+    "table": 4,
+    "rows": 4,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2017,
+    "table": 5,
+    "rows": 12,
+    "columns": 7,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2018,
+    "table": 1,
+    "rows": 56,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2018,
+    "table": 2,
+    "rows": 6,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2018,
+    "table": 3,
+    "rows": 6,
+    "columns": 2,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2018,
+    "table": 4,
+    "rows": 17,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2019,
+    "table": 1,
+    "rows": 57,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2019,
+    "table": 2,
+    "rows": 11,
+    "columns": 4,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2019,
+    "table": 3,
+    "rows": 7,
+    "columns": 2,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2019,
+    "table": 4,
+    "rows": 17,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2020,
+    "table": 1,
+    "rows": 58,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2020,
+    "table": 2,
+    "rows": 17,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2021,
+    "table": 1,
+    "rows": 59,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2021,
+    "table": 2,
+    "rows": 17,
+    "columns": 5,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2022,
+    "table": 1,
+    "rows": 60,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2022,
+    "table": 2,
+    "rows": 4,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2023,
+    "table": 1,
+    "rows": 6,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2023,
+    "table": 2,
+    "rows": 61,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2024,
+    "table": 1,
+    "rows": 8,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2024,
+    "table": 2,
+    "rows": 30,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  },
+  {
+    "year": 2024,
+    "table": 3,
+    "rows": 32,
+    "columns": 3,
+    "structure": "passed",
+    "source_number_presence": "passed",
+    "exception_values": []
+  }
+]
