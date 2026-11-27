@@ -19,6 +19,19 @@ def text_md(t):
 def nums(t):return re.findall(r'\d+(?:[.,]\d+)*',t)
 def cjk(t):return ''.join(re.findall(r'[\u3400-\u9fff]',t))
 
+def check_word_pair(md):
+ word=md.with_suffix('.docx');assert md.is_file() and word.is_file()
+ text=md.read_text();assert not re.search(r'@@|\ufffd|/Users/|TODO',text)
+ expected=text_md(text)
+ with zipfile.ZipFile(word) as z:
+  assert z.testzip() is None
+  root=ET.fromstring(z.read('word/document.xml'))
+  actual='\n'.join(''.join(n.itertext()) for n in root.findall('.//w:t',NS))
+  assert nums(expected)==nums(actual),(str(md),'numeric sequence')
+  assert cjk(expected)==cjk(actual),(str(md),'Chinese character sequence')
+  assert re.findall(r'[A-Za-z]+',expected)==re.findall(r'[A-Za-z]+',actual),(str(md),'English word sequence')
+ return dict(markdown=str(md.relative_to(ROOT)),word=str(word.relative_to(ROOT)),markdown_sha256=sha(md),word_sha256=sha(word),numeric_sequence='passed',chinese_character_sequence='passed',english_word_sequence='passed')
+
 def main():
  records=json.loads((ROOT/'校对记录/来源清单.json').read_text());results=[]
  for r in records:
@@ -52,10 +65,18 @@ def main():
    assert source.is_file() and source.read_bytes().startswith(b'%PDF-')
    assert sha(source)==r['sha256'] and source.stat().st_size==r['bytes']
    assert re.fullmatch(r'202[56]-\d\d-\d\d',r['publication_date'])
-   assert r['translation_status']=='not_started' and r['translated_editions']==[]
-   supplements.append(dict(id=r['id'],source_file=r['source_file'],sha256=r['sha256'],source_status='passed',translation_status=r['translation_status']))
- report=dict(years=48,markdown_files=144,word_files=144,original_files=48+len(supplements),annual_original_files=48,supplemental_original_files=len(supplements),source_hashes='passed',local_markdown_links='passed',word_text_preservation='passed',editions=results,supplemental_sources=supplements)
+   assert r['translation_status'] in ['not_started','in_progress','complete']
+   edition_checks=[]
+   if r['translation_status']=='not_started':assert r['translated_editions']==[]
+   else:
+    assert r.get('edition_stem'),(r['id'],'missing edition stem')
+    expected={f"{lang}/{r['edition_stem']}.{suffix}" for lang in ['中文版','英文版','中英对照版'] for suffix in ['md','docx']}
+    assert set(r['translated_editions'])==expected
+    for lang in ['中文版','英文版','中英对照版']:edition_checks.append(check_word_pair(ROOT/lang/(r['edition_stem']+'.md')))
+   supplements.append(dict(id=r['id'],source_file=r['source_file'],sha256=r['sha256'],source_status='passed',translation_status=r['translation_status'],editions=edition_checks))
+ extra=sum(len(r['editions']) for r in supplements)
+ report=dict(years=48,markdown_files=144+extra,word_files=144+extra,original_files=48+len(supplements),annual_original_files=48,supplemental_original_files=len(supplements),completed_supplemental_translations=sum(r['translation_status']=='complete' for r in supplements),source_hashes='passed',local_markdown_links='passed',word_text_preservation='passed',editions=results,supplemental_sources=supplements)
  (ROOT/'校对记录/项目检查.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
- print(f'48 annual translations / 144 Markdown / 144 Word / {48+len(supplements)} originals ({len(supplements)} supplemental): source hashes, links and Word text checks passed.')
+ print(f'48 original annual translations / {144+extra} Markdown / {144+extra} Word / {48+len(supplements)} originals ({len(supplements)} supplemental): source hashes, links and Word text checks passed.')
 
 if __name__=='__main__':main()

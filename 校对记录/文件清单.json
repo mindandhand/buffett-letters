@@ -18,8 +18,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 14019,
-      "sha256": "852704c33f82d783f6251575878b1c6f721e79844a29335796f47b57f3eab5d8"
+      "bytes": 16773,
+      "sha256": "0ba8c8e6d7588a4122961111c0c958e5a4047f1dd92da0394da685750e93af98"
     },
     {
       "path": "中文版/1977.docx",
@@ -502,6 +502,76 @@
       "sha256": "b61bc8339287490ded79f20881d22b10fbf310edb01a48c31705286bf38da6b2"
     },
     {
+      "path": "中文版/2025-05-05-CEO-Succession.docx",
+      "bytes": 37421,
+      "sha256": "1ad02c87d93cb4ec5898e5c5673593e594eeac105a30ed5e09fe2fbb5194da09"
+    },
+    {
+      "path": "中文版/2025-05-05-CEO-Succession.md",
+      "bytes": 1000,
+      "sha256": "9ef484bccad1a6f7a8b9e3916d3de7a383d645bbd98f6738cc7fac9f9d335f23"
+    },
+    {
+      "path": "中文版/2025-06-27-Buffett-Philanthropy.docx",
+      "bytes": 38195,
+      "sha256": "565fc62463e15392a3f718180ebf342f019053fb5dce98217a4e44eace005f37"
+    },
+    {
+      "path": "中文版/2025-06-27-Buffett-Philanthropy.md",
+      "bytes": 2346,
+      "sha256": "1775b021d51754725c3da3f3816e6bf3cf8eea8ad0a777f0a96d7f78153b8f2d"
+    },
+    {
+      "path": "中文版/2025-11-10-Buffett-Thanksgiving.docx",
+      "bytes": 47415,
+      "sha256": "221bc58ad15fef0167b3344b18e04ee6e610a5212d9e0a1a96279f04c396b65a"
+    },
+    {
+      "path": "中文版/2025-11-10-Buffett-Thanksgiving.md",
+      "bytes": 20411,
+      "sha256": "5c50cc51c3f7d75c646e74075d09fefae3e16b1b684da00f1d9a5bed84fd7d41"
+    },
+    {
+      "path": "中文版/2026-02-28-Greg-Abel-2025-Annual-Letter.docx",
+      "bytes": 57633,
+      "sha256": "5b6287b712b6497acae755c0840ad45666b17ace68defe238251970fca5083ac"
+    },
+    {
+      "path": "中文版/2026-02-28-Greg-Abel-2025-Annual-Letter.md",
+      "bytes": 42572,
+      "sha256": "8c9165363cb8c669394c28612795c843924ad786055e5f7cbaa6788ca532608f"
+    },
+    {
+      "path": "中文版/2026-07-14-Buffett-Philanthropy.docx",
+      "bytes": 37733,
+      "sha256": "079079156d8e722dfb6a7d3a24f6d7b92c3dd3593eef7d8ecfc4d86620e1394c"
+    },
+    {
+      "path": "中文版/2026-07-14-Buffett-Philanthropy.md",
+      "bytes": 1527,
+      "sha256": "84e4d491b5c8446db7c3e40b74b3af5304b5ce93835a56373e6a442b06aa1ba6"
+    },
+    {
+      "path": "中文版/2026-09-18-Buffett-Chairman-Transition.docx",
+      "bytes": 39036,
+      "sha256": "bcb4eb8acbf7fe4d7bb01f87b4b961894e53908e3651e6227e6abdc9038e4b0a"
+    },
+    {
+      "path": "中文版/2026-09-18-Buffett-Chairman-Transition.md",
+      "bytes": 4079,
+      "sha256": "dd3a0f3f2f9aa57ff0856bedbaa016ab2e2504921cce119806662d7eba7f03ad"
+    },
+    {
+      "path": "中文版/2026-11-16-Buffett-Thanksgiving.docx",
+      "bytes": 38167,
+      "sha256": "c2eca3597015db2ca56dfd5f3aaf1cc07ba0ce65190a8a37444399889cd238dd"
+    },
+    {
+      "path": "中文版/2026-11-16-Buffett-Thanksgiving.md",
+      "bytes": 2137,
+      "sha256": "bf515af4855c9253af4ad64c8c807f75d13d85d7294b7009f18042769b9d50db"
+    },
+    {
       "path": "中英对照版/1977.docx",
       "bytes": 55516,
       "sha256": "cec8e1b54e1635a75c41d6b86944dcb899f76080db71f419334b140c35548b76"
@@ -982,6 +1052,76 @@
       "sha256": "3679d467bdf0fa8e5af87351a4734a0810722d3f811c06ddffe97f8794b5619d"
     },
     {
+      "path": "中英对照版/2025-05-05-CEO-Succession.docx",
+      "bytes": 38107,
+      "sha256": "7f50c14cb4c353346f93f71624a5a7f7685adfb50c42bc9903b474491efc3101"
+    },
+    {
+      "path": "中英对照版/2025-05-05-CEO-Succession.md",
+      "bytes": 2220,
+      "sha256": "2b8db97af6ad94e4370c4851fc8c6db9e364241f6792fa6d45ed791745428088"
+    },
+    {
+      "path": "中英对照版/2025-06-27-Buffett-Philanthropy.docx",
+      "bytes": 39575,
+      "sha256": "99a009eed88fde4e7c2c7c40f5afa9beeea7f97eabc04ce246039cde76e475fd"
+    },
+    {
+      "path": "中英对照版/2025-06-27-Buffett-Philanthropy.md",
+      "bytes": 4869,
+      "sha256": "20f385ed1d0763eb28679d24125627cb73b2d671b501cfd16c27a865a4edeb08"
+    },
+    {
+      "path": "中英对照版/2025-11-10-Buffett-Thanksgiving.docx",
+      "bytes": 58394,
+      "sha256": "ce0d31edc3fc0f28355f6d2cbd3c9cd60b83472b37847c9443ae2ee91e0154c8"
+    },
+    {
+      "path": "中英对照版/2025-11-10-Buffett-Thanksgiving.md",
+      "bytes": 41846,
+      "sha256": "e51bb4c17d78012c7afe5584cc97561356eb8bc07b9a87d51edc195fd86749e9"
+    },
+    {
+      "path": "中英对照版/2026-02-28-Greg-Abel-2025-Annual-Letter.docx",
+      "bytes": 81376,
+      "sha256": "0db921d62a7c3c37bf4a17047d4676a217d4264699e3b4f0397060c289a9e3f6"
+    },
+    {
+      "path": "中英对照版/2026-02-28-Greg-Abel-2025-Annual-Letter.md",
+      "bytes": 92667,
+      "sha256": "b74853a86bedbe88bac0acb28c2aad391987efe552836363ddca7e605070978b"
+    },
+    {
+      "path": "中英对照版/2026-07-14-Buffett-Philanthropy.docx",
+      "bytes": 38646,
+      "sha256": "5c7ea6ec53d682310d5151f28cc28e0d319c6393238ffdbd860b535dde676c2e"
+    },
+    {
+      "path": "中英对照版/2026-07-14-Buffett-Philanthropy.md",
+      "bytes": 3197,
+      "sha256": "9f073756242a74532da95250f92aa20f45856bb38987421251111c9cb8dc9a6d"
+    },
+    {
+      "path": "中英对照版/2026-09-18-Buffett-Chairman-Transition.docx",
+      "bytes": 41313,
+      "sha256": "b4bba48db8548566d3407dc4039f7a309ef29eb98c347fb96215ec5e6bf925c5"
+    },
+    {
+      "path": "中英对照版/2026-09-18-Buffett-Chairman-Transition.md",
+      "bytes": 8546,
+      "sha256": "0e1a8c19f8d7635161fad77c33aa716cb02ba3eb943e3708790857765a8a9f4f"
+    },
+    {
+      "path": "中英对照版/2026-11-16-Buffett-Thanksgiving.docx",
+      "bytes": 39538,
+      "sha256": "3b790162320d446641b868caa80178380dd3db4ec6e1265cc6354591584d6f85"
+    },
+    {
+      "path": "中英对照版/2026-11-16-Buffett-Thanksgiving.md",
+      "bytes": 4535,
+      "sha256": "986c7954e04d42f07fe327059214542c1bf4fea09132219ee4a967120941cb1b"
+    },
+    {
       "path": "原始资料/1977.html",
       "bytes": 21781,
       "sha256": "ef4c39cbca16040bb824764eca719cd934ec62380e1b9c61396e2f483d07d9e0"
@@ -1298,8 +1438,8 @@
     },
     {
       "path": "工具/README.md",
-      "bytes": 1735,
-      "sha256": "1ccf95d44a161b98ef1492ebb4b9b9c9e1e7d9405f78fa6d07e7f1d840393d80"
+      "bytes": 2162,
+      "sha256": "71bc6e65e4cde1e6ab9c393d1eaf5447c03bf8374882a0cc5a78b92e716e97bf"
     },
     {
       "path": "工具/build_bilingual.py",
@@ -1307,14 +1447,19 @@
       "sha256": "5bef0999df16208b262ca199b42e2a95d452a644eca7c94a006d2fda07be6d8b"
     },
     {
+      "path": "工具/build_supplements.py",
+      "bytes": 1220,
+      "sha256": "42ae61e53f15ac322b2206dd5fd6b77f244af5fb638511e0f14f8fcdde597df4"
+    },
+    {
       "path": "工具/build_word.py",
-      "bytes": 8625,
-      "sha256": "c3cae6dbb45e7917ff259b3d1b3c484593c6934c6c5c180a7aaf5f5e38faa24c"
+      "bytes": 9534,
+      "sha256": "0a65fdc9705efb3a8d0b0059088d2b7c212e2ab0ebdff5d3e64f080870a4766d"
     },
     {
       "path": "工具/check_project.py",
-      "bytes": 3594,
-      "sha256": "05c396369ea190825f7e94c9d6c7e5776a28350a4969f499a55395b8d2c8f23e"
+      "bytes": 5159,
+      "sha256": "b487b90866fa10415fdbc9ba831fc59f4f6da6c016eeaf17d35f9f4a2fbf5823"
     },
     {
       "path": "工具/fetch_supplements.py",
@@ -1568,28 +1713,28 @@
     },
     {
       "path": "校对记录/2025-2026资料说明.md",
-      "bytes": 3959,
-      "sha256": "5de61f7733b2f03cc2502c725aded6fd8957f84e89820305855da239435c5fc3"
+      "bytes": 4187,
+      "sha256": "64744aac6b488149874ddf080b38d025153cdbca5f8ba7d44cb3d6b5fc5bd334"
     },
     {
       "path": "校对记录/Word排版检查.json",
-      "bytes": 832705,
-      "sha256": "21eacce1509fe3b9c08a6ac7634d7f0d06de97a08332379e9fef726848ed6b7e"
+      "bytes": 860557,
+      "sha256": "475dd73ce76a7a24846f8bb32a2f0a61f5bba026e2795713ebc6e945c975ac7a"
     },
     {
       "path": "校对记录/Word构建清单.json",
-      "bytes": 68445,
-      "sha256": "e925b81a353a49fad990685ad4edd6df17d07c983ddceae9c5f2ac517b3f47a9"
+      "bytes": 79144,
+      "sha256": "70c4d3ec62575ffe3d789f2984753d7191690b384ac256dfeddd370a732ea236"
     },
     {
       "path": "校对记录/Word生成检查.md",
-      "bytes": 1232,
-      "sha256": "b7d1f581fdf06ddb138641ede3fdf304bd007a82fe2ca065a7392cf14e4a6a97"
+      "bytes": 1320,
+      "sha256": "6cf5838e09e90791592a9046887f7b069a3a46498cc1a24b842ef57634940c0a"
     },
     {
       "path": "校对记录/全集审核报告.md",
-      "bytes": 3219,
-      "sha256": "69c1c3c8ee3b11cc0cba9de743b3675a229baf2e7e4d68e30f3846bc8b9d3da5"
+      "bytes": 3403,
+      "sha256": "5dc82dc991d798ee5c9b1400ce1fa92604a9978d15ed54e5a50cfc975a5e6465"
     },
     {
       "path": "校对记录/对齐数据.json",
@@ -1612,9 +1757,19 @@
       "sha256": "d662eeb4cdd828a5bc1249c17c00c24ae0a7c6760b2fdd5b31b9e0e3138d92a8"
     },
     {
+      "path": "校对记录/补充对齐数据.json",
+      "bytes": 163608,
+      "sha256": "566090fa73ec7afa668f0b03c823692d65b58749bdb8c7ddfdb64de755a43bec"
+    },
+    {
       "path": "校对记录/补充资料清单.json",
-      "bytes": 6784,
-      "sha256": "d7060f269af0bf6340422c89c1fbab6f9e63722580fa17a34d84ec898305a108"
+      "bytes": 10467,
+      "sha256": "270960ab99034f7aa44f0cbcba7ec2f778f6ee08fc8450924730fbff404c985b"
+    },
+    {
+      "path": "校对记录/补译审核.json",
+      "bytes": 4588,
+      "sha256": "1aabc8417492328c71b6670a042d8088211da2b3f77398da849659fb9570b1f1"
     },
     {
       "path": "校对记录/表格检查.json",
@@ -1633,8 +1788,8 @@
     },
     {
       "path": "校对记录/项目检查.json",
-      "bytes": 55632,
-      "sha256": "9b2dc12f362e554cd7028396bedf002a9254dc289e63f29592418f433a559530"
+      "bytes": 66132,
+      "sha256": "acfc1339e5620e273aafd7cdcb0da04f5a64c9c76429cda1786fb4b5fafd4b49"
     },
     {
       "path": "英文版/1977.docx",
@@ -2117,9 +2272,79 @@
       "sha256": "81dd237f72fc4c5ef21adff37ed74fde9eee631558faae9ddc59ba8ca2a7d1ab"
     },
     {
+      "path": "英文版/2025-05-05-CEO-Succession.docx",
+      "bytes": 37369,
+      "sha256": "179051712aeee793201cd94f4d6b9e6df569366c32f2f35340a09d859f354f57"
+    },
+    {
+      "path": "英文版/2025-05-05-CEO-Succession.md",
+      "bytes": 1194,
+      "sha256": "f36dd360f0b0bf92e78644fd62dffa945021f53d2bc67660c64d781a7d262151"
+    },
+    {
+      "path": "英文版/2025-06-27-Buffett-Philanthropy.docx",
+      "bytes": 38084,
+      "sha256": "ebe3aaa0709d6cce4cfccbb295c23d6b98c26b954a9ec0f70d059155b6773b23"
+    },
+    {
+      "path": "英文版/2025-06-27-Buffett-Philanthropy.md",
+      "bytes": 2517,
+      "sha256": "21b093c0b4357b056b641852f52e818ddfafcae24a276df6fed8605a18c10b99"
+    },
+    {
+      "path": "英文版/2025-11-10-Buffett-Thanksgiving.docx",
+      "bytes": 46334,
+      "sha256": "e9442611c4368ba06fe123266786d442f310786dd46e5173c98e40c752fd27d6"
+    },
+    {
+      "path": "英文版/2025-11-10-Buffett-Thanksgiving.md",
+      "bytes": 21114,
+      "sha256": "eaa386b92d5d751bf01df0f4b6b4963cd631b7bc0e499c2f47d13ac71c6d8e02"
+    },
+    {
       "path": "英文版/2025-2026-资料索引.md",
-      "bytes": 2134,
-      "sha256": "a41d72d7159463e29fefa9f294c6c051b34aff836acb596cb89f73f2b8e6fe25"
+      "bytes": 3665,
+      "sha256": "41e9770114625f07cc4e2d04625ab3543d25c3e5aad82f1e31c60266f97280f1"
+    },
+    {
+      "path": "英文版/2026-02-28-Greg-Abel-2025-Annual-Letter.docx",
+      "bytes": 57160,
+      "sha256": "a7f9b50eae6eb099e8eeea9d6788a2895583d62e07a253b677f27c909405c368"
+    },
+    {
+      "path": "英文版/2026-02-28-Greg-Abel-2025-Annual-Letter.md",
+      "bytes": 49257,
+      "sha256": "cbeb5f041f9b71f6401cd028128e765ef4b96b41cc910560c4fa22ee40afdc9b"
+    },
+    {
+      "path": "英文版/2026-07-14-Buffett-Philanthropy.docx",
+      "bytes": 37615,
+      "sha256": "1446fb838503023938ba9a4a7761b56224a95fe5fdc52d902a09f77dff65572b"
+    },
+    {
+      "path": "英文版/2026-07-14-Buffett-Philanthropy.md",
+      "bytes": 1666,
+      "sha256": "7275e19aec63d238f49133fc25931b6c4acd0d669110ebcab02c7022e57c8b55"
+    },
+    {
+      "path": "英文版/2026-09-18-Buffett-Chairman-Transition.docx",
+      "bytes": 38837,
+      "sha256": "ca90994380b9f80011a46cd6a50798c435aeb43f7ef64371eb288144c7922426"
+    },
+    {
+      "path": "英文版/2026-09-18-Buffett-Chairman-Transition.md",
+      "bytes": 4434,
+      "sha256": "a3e2a7c492b256b3a75a0eafd629e6f000ea16bfac56f935ae4817e91d2ba9df"
+    },
+    {
+      "path": "英文版/2026-11-16-Buffett-Thanksgiving.docx",
+      "bytes": 38014,
+      "sha256": "e0615f400358f61fd5bc851664b62d91ef6d98e6c5a2ad60f08d857fa6dd53b8"
+    },
+    {
+      "path": "英文版/2026-11-16-Buffett-Thanksgiving.md",
+      "bytes": 2332,
+      "sha256": "1f5cfb9e2ca9eaa950a9c90be1b4b62abef9edefe388e65f9bad67b710bb886a"
     }
   ]
 }

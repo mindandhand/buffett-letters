@@ -86,6 +86,10 @@ def build(path):
  style_font(doc.styles['Normal'],11 if lang=='英文版' else 10.5,family)
  doc.styles['Normal'].paragraph_format.line_spacing=1.2
  doc.styles['Normal'].paragraph_format.space_after=Pt(6)
+ # Keep the one-page Chinese donation release and its contact details together.
+ if lang=='中文版' and path.stem=='2025-06-27-Buffett-Philanthropy':
+  doc.styles['Normal'].paragraph_format.line_spacing=1.15
+  doc.styles['Normal'].paragraph_format.space_after=Pt(4)
  for name,size in [('Title',19),('Heading 1',15),('Heading 2',12.5),('Heading 3',11.5)]:
   style_font(doc.styles[name],size,family);doc.styles[name].paragraph_format.keep_with_next=True
  style_font(doc.styles['Quote'],10.5,family)
@@ -141,16 +145,25 @@ def build(path):
    if bullet[1] in ['-','*']:p=doc.add_paragraph(plain(bullet[2]),style='List Bullet')
    else:
     p=doc.add_paragraph(text);p.paragraph_format.left_indent=Mm(4)
-  else:p=doc.add_paragraph(text)
+  else:
+   p=doc.add_paragraph()
+   run=p.add_run(text)
+   if s.startswith('*') and s.endswith('*') and not s.startswith('**'):run.italic=True
   i+=1
  out=path.with_suffix('.docx');doc.save(out)
  return dict(file=str(out.relative_to(ROOT)),markdown_sha256=sha(path),word_sha256=sha(out),tables=table_count,images=image_count,fixed_width_blocks=code_count,render_status='pending')
 
 def main():
- parser=argparse.ArgumentParser();parser.add_argument('--year',type=int);parser.add_argument('--language',choices=LANGS);args=parser.parse_args()
+ parser=argparse.ArgumentParser();select=parser.add_mutually_exclusive_group();select.add_argument('--year',type=int);select.add_argument('--stem');select.add_argument('--supplements',action='store_true');parser.add_argument('--language',choices=LANGS);args=parser.parse_args()
+ meta_path=ROOT/'校对记录/补充资料清单.json'
+ supplementary=json.loads(meta_path.read_text())['documents'] if meta_path.exists() else []
+ stems=[r['edition_stem'] for r in supplementary if r.get('edition_stem')]
  records=[]
  for lang in ([args.language] if args.language else LANGS):
-  paths=[ROOT/lang/f'{args.year}.md'] if args.year else sorted((ROOT/lang).glob('[0-9][0-9][0-9][0-9].md'))
+  if args.year:paths=[ROOT/lang/f'{args.year}.md']
+  elif args.stem:paths=[ROOT/lang/(args.stem+'.md')]
+  elif args.supplements:paths=[ROOT/lang/(stem+'.md') for stem in stems]
+  else:paths=sorted((ROOT/lang).glob('[0-9][0-9][0-9][0-9].md'))+[ROOT/lang/(stem+'.md') for stem in stems]
   for path in paths:
    record=build(path);records.append(record);print(record['file'],flush=True)
  inventory=ROOT/'校对记录/Word构建清单.json'

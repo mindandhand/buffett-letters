@@ -1,6 +1,6 @@
 # 巴菲特致股东信与后续资料
 
-1977—2024财年48篇完整中文译文、英文原文与中英对照，提供 Markdown 在线阅读和 Word 下载。另收录2025—2026年7份官网原件；新增资料尚未完成全文翻译。
+1977—2024财年48篇完整中文译文、英文原文与中英对照，提供 Markdown 在线阅读和 Word 下载。另完成2025—2026年7份补充资料的全文翻译与原文整理。合计55份资料，提供中文、英文、中英对照各55份 Markdown 与 Word，共165份 Word。
 
 ## 阅读入口
 
@@ -10,7 +10,7 @@
 - [原始资料](原始资料)：原始HTML和PDF文件。
 - [校对记录](校对记录/全集审核报告.md)：审核范围、原文异文与逐年校记。
 
-Markdown 与 Word 放在同一个目录，直接用年份命名。所有Word由对应Markdown生成，正文、表格与图片来自同一份内容。
+Markdown 与 Word 放在同一个目录，年度信用财年命名，补充资料用发布日期和标题命名。所有Word由对应Markdown生成，正文、表格与图片来自同一份内容。
 
 三套Word已全部生成，并完成正文一致性检查、批量渲染及逐页机器检查；代表页面作了视觉抽检，详见[Word生成检查](校对记录/Word生成检查.md)。
 
@@ -71,21 +71,21 @@ Markdown 与 Word 放在同一个目录，直接用年份命名。所有Word由�
 
 下表按**实际发布日期**排列。年度目录中的`2024`是2025年2月发布的巴菲特年度信；2025财年年度信由阿贝尔署名，于2026年2月发布。详见[年份与作者说明](校对记录/2025-2026资料说明.md)。
 
-| 发布日期 | 资料 | 状态 |
-| --- | --- | --- |
-| 2025-05-05 | [CEO接班安排公告](原始资料/2025-05-05-CEO-Succession.pdf) | 英文原件已收录，全文翻译待完成 |
-| 2025-06-27 | [捐赠公告及巴菲特说明](原始资料/2025-06-27-Buffett-Philanthropy.pdf) | 英文原件已收录，全文翻译待完成 |
-| 2025-11-10 | [巴菲特2025年感恩节致股东信](原始资料/2025-11-10-Buffett-Thanksgiving.pdf) | 英文原件已收录，全文翻译待完成 |
-| 2026-02-28 | [2025财年年度致股东信 阿贝尔](原始资料/2026-02-28-Greg-Abel-2025-Annual-Letter.pdf) | 英文原件已收录，全文翻译待完成 |
-| 2026-07-14 | [捐赠公告及巴菲特慈善计划说明](原始资料/2026-07-14-Buffett-Philanthropy.pdf) | 英文原件已收录，全文翻译待完成 |
-| 2026-09-18 | [任名誉董事长公告及巴菲特致股东信](原始资料/2026-09-18-Buffett-Chairman-Transition.pdf) | 英文原件已收录，全文翻译待完成 |
-| 2026-11-16 | [巴菲特2026年感恩节寄语](原始资料/2026-11-16-Buffett-Thanksgiving.pdf) | 英文原件已收录，全文翻译待完成 |
+| 发布日期 | 资料 | 中文版 | 英文版 | 中英对照版 |
+| --- | --- | --- | --- | --- |
+| 2025-05-05 | [CEO接班安排公告](原始资料/2025-05-05-CEO-Succession.pdf) | [阅读](中文版/2025-05-05-CEO-Succession.md) · [Word](中文版/2025-05-05-CEO-Succession.docx) | [阅读](英文版/2025-05-05-CEO-Succession.md) · [Word](英文版/2025-05-05-CEO-Succession.docx) | [阅读](中英对照版/2025-05-05-CEO-Succession.md) · [Word](中英对照版/2025-05-05-CEO-Succession.docx) |
+| 2025-06-27 | [捐赠公告及巴菲特说明](原始资料/2025-06-27-Buffett-Philanthropy.pdf) | [阅读](中文版/2025-06-27-Buffett-Philanthropy.md) · [Word](中文版/2025-06-27-Buffett-Philanthropy.docx) | [阅读](英文版/2025-06-27-Buffett-Philanthropy.md) · [Word](英文版/2025-06-27-Buffett-Philanthropy.docx) | [阅读](中英对照版/2025-06-27-Buffett-Philanthropy.md) · [Word](中英对照版/2025-06-27-Buffett-Philanthropy.docx) |
+| 2025-11-10 | [巴菲特2025年感恩节致股东信](原始资料/2025-11-10-Buffett-Thanksgiving.pdf) | [阅读](中文版/2025-11-10-Buffett-Thanksgiving.md) · [Word](中文版/2025-11-10-Buffett-Thanksgiving.docx) | [阅读](英文版/2025-11-10-Buffett-Thanksgiving.md) · [Word](英文版/2025-11-10-Buffett-Thanksgiving.docx) | [阅读](中英对照版/2025-11-10-Buffett-Thanksgiving.md) · [Word](中英对照版/2025-11-10-Buffett-Thanksgiving.docx) |
+| 2026-02-28 | [2025财年年度致股东信 阿贝尔](原始资料/2026-02-28-Greg-Abel-2025-Annual-Letter.pdf) | [阅读](中文版/2026-02-28-Greg-Abel-2025-Annual-Letter.md) · [Word](中文版/2026-02-28-Greg-Abel-2025-Annual-Letter.docx) | [阅读](英文版/2026-02-28-Greg-Abel-2025-Annual-Letter.md) · [Word](英文版/2026-02-28-Greg-Abel-2025-Annual-Letter.docx) | [阅读](中英对照版/2026-02-28-Greg-Abel-2025-Annual-Letter.md) · [Word](中英对照版/2026-02-28-Greg-Abel-2025-Annual-Letter.docx) |
+| 2026-07-14 | [捐赠公告及巴菲特慈善计划说明](原始资料/2026-07-14-Buffett-Philanthropy.pdf) | [阅读](中文版/2026-07-14-Buffett-Philanthropy.md) · [Word](中文版/2026-07-14-Buffett-Philanthropy.docx) | [阅读](英文版/2026-07-14-Buffett-Philanthropy.md) · [Word](英文版/2026-07-14-Buffett-Philanthropy.docx) | [阅读](中英对照版/2026-07-14-Buffett-Philanthropy.md) · [Word](中英对照版/2026-07-14-Buffett-Philanthropy.docx) |
+| 2026-09-18 | [任名誉董事长公告及巴菲特致股东信](原始资料/2026-09-18-Buffett-Chairman-Transition.pdf) | [阅读](中文版/2026-09-18-Buffett-Chairman-Transition.md) · [Word](中文版/2026-09-18-Buffett-Chairman-Transition.docx) | [阅读](英文版/2026-09-18-Buffett-Chairman-Transition.md) · [Word](英文版/2026-09-18-Buffett-Chairman-Transition.docx) | [阅读](中英对照版/2026-09-18-Buffett-Chairman-Transition.md) · [Word](中英对照版/2026-09-18-Buffett-Chairman-Transition.docx) |
+| 2026-11-16 | [巴菲特2026年感恩节寄语](原始资料/2026-11-16-Buffett-Thanksgiving.pdf) | [阅读](中文版/2026-11-16-Buffett-Thanksgiving.md) · [Word](中文版/2026-11-16-Buffett-Thanksgiving.docx) | [阅读](英文版/2026-11-16-Buffett-Thanksgiving.md) · [Word](英文版/2026-11-16-Buffett-Thanksgiving.docx) | [阅读](中英对照版/2026-11-16-Buffett-Thanksgiving.md) · [Word](中英对照版/2026-11-16-Buffett-Thanksgiving.docx) |
 
-2026财年年度信截至核查日未列入官网年度信目录。补充原件不计入上面的48篇完整译稿统计。
+2026财年年度信截至核查日未列入官网年度信目录。7份补充资料已全部提供三套全文与Word，单独列示于本表。
 
 ## 内容与审核
 
-中文使用最新作者助手复核稿。已完成48篇的来源、覆盖、表格结构及数值差异检查；1999—2001年另作全部55页中文通读并修订124条。其他年度的逐句语义审核沿用已有复核记录，尚无独立人工终审。
+中文使用最新作者助手复核稿。已完成48篇的来源、覆盖、表格结构及数值差异检查；1999—2001年另作全部55页中文通读并修订124条。其他年度的逐句语义审核沿用已有复核记录，尚无独立人工终审。新增7份按原件35页全文翻译，金额换算、股份、表格及Word正文一致性检查通过，详见[补译审核](校对记录/补译审核.json)。
 
 正文保留写信时的历史判断、数字与安排。原件仅引用、未实际附带的材料不补造。详细校记保存在校对记录目录，方便直接阅读各版本正文。
 
@@ -100,7 +100,7 @@ python3 工具/build_word.py
 python3 工具/check_project.py
 ```
 
-修改中文或英文Markdown后，先根据`校对记录/对齐数据.json`更新对应的对照段落，再运行`工具/build_bilingual.py`和Word生成工具。重生成工具不会自动翻译或猜测段落对应关系。
+修改中文或英文Markdown后，先根据`校对记录/对齐数据.json`更新对应的对照段落，再运行`工具/build_bilingual.py`和Word生成工具。补充资料使用`校对记录/补充对齐数据.json`与`工具/build_supplements.py`重生成三套Markdown，使用`工具/build_word.py --supplements`生成Word。重生成工具不会自动翻译或猜测段落对应关系。
 
 ## 来源与权利
 

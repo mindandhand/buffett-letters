@@ -1,0 +1,107 @@
+{
+  "documents": [
+    {
+      "id": "2025-05-05-ceo-succession",
+      "source_sha256": "3795966a46a5c1402ed6ae29ae665359e663b39864ddba68b5d2fba2c90ab67d",
+      "source_pages": 1,
+      "translated_pages": 1,
+      "complete_source_read_by_author": true,
+      "tables": 0,
+      "source_notes": [],
+      "review_status": "author_source_read_translation_and_numeric_checks_complete",
+      "scaled_quantity_check": "passed"
+    },
+    {
+      "id": "2025-06-27-buffett-philanthropy",
+      "source_sha256": "27b8daaca43cb7d452493b5be203e576945a81fb9b7b0d2f6e3047d88d1a18ab",
+      "source_pages": 1,
+      "translated_pages": 1,
+      "complete_source_read_by_author": true,
+      "tables": 0,
+      "source_notes": [],
+      "review_status": "author_source_read_translation_and_numeric_checks_complete",
+      "scaled_quantity_check": "passed"
+    },
+    {
+      "id": "2025-11-10-buffett-thanksgiving",
+      "source_sha256": "be499afab992b9f77353b341efdcc2a01ce09ee702ad88dd24afb91a7f3b9316",
+      "source_pages": 8,
+      "translated_pages": 8,
+      "complete_source_read_by_author": true,
+      "tables": 0,
+      "source_notes": [],
+      "review_status": "author_source_read_translation_and_numeric_checks_complete",
+      "scaled_quantity_check": "passed"
+    },
+    {
+      "id": "2025-annual-letter-greg-abel",
+      "source_sha256": "8a7daf30955673a0f39611857c7663ca84431a5af33ca900a6e715fa5a1584ad",
+      "source_pages": 20,
+      "translated_pages": 20,
+      "complete_source_read_by_author": true,
+      "tables": 4,
+      "source_notes": [],
+      "review_status": "author_source_read_translation_and_numeric_checks_complete",
+      "scaled_quantity_check": "passed"
+    },
+    {
+      "id": "2026-07-14-buffett-philanthropy",
+      "source_sha256": "d1b4e93b2bef778767f27cb8eea1896b1fcb09899c211fbbb123da529e94ab46",
+      "source_pages": 1,
+      "translated_pages": 1,
+      "complete_source_read_by_author": true,
+      "tables": 0,
+      "source_notes": [
+        "2026JulyreleaseopensBuffettquotationwithoutclosingquote; Chinese closes the quotation typographically."
+      ],
+      "review_status": "author_source_read_translation_and_numeric_checks_complete",
+      "scaled_quantity_check": "passed"
+    },
+    {
+      "id": "2026-09-18-buffett-transition",
+      "source_sha256": "21bae239da559f1d85e1de027024923df373cf3977227aa6127a96e55add745f",
+      "source_pages": 2,
+      "translated_pages": 2,
+      "complete_source_read_by_author": true,
+      "tables": 0,
+      "source_notes": [],
+      "review_status": "author_source_read_translation_and_numeric_checks_complete",
+      "scaled_quantity_check": "passed"
+    },
+    {
+      "id": "2026-11-16-buffett-thanksgiving",
+      "source_sha256": "b9e2fd962805e7cd3d6b8ff301046669aa94a0044f9b7fd2a98bebd337967512",
+      "source_pages": 2,
+      "translated_pages": 2,
+      "complete_source_read_by_author": true,
+      "tables": 0,
+      "source_notes": [],
+      "review_status": "author_source_read_translation_and_numeric_checks_complete",
+      "scaled_quantity_check": "passed"
+    }
+  ],
+  "independent_human_review": false,
+  "source_pages": 35,
+  "translated_documents": 7,
+  "markdown_editions": 21,
+  "word_editions": 21,
+  "rendered_word_pages": 127,
+  "source_english_non_table_pages_checked": 31,
+  "source_english_word_number_sequence": "passed",
+  "native_tables_source_numeric_cells": "passed (4 tables)",
+  "word_body_consistency": "passed",
+  "all_rendered_pages_machine_checked": true,
+  "layout_flags": 0,
+  "visual_review": "All 127 final pages viewed in overview sheets; release, table and bilingual title details sampled at full size. Not an independent human proofread.",
+  "review_notes": [
+    "巴菲特文字保留第一人称、幽默与自嘲，阿贝尔年度信保留其本人语气。",
+    "全部公告、附信、公司介绍及联系人均纳入翻译。",
+    "阿贝尔年度信四表保留原件数字、负数括号、计量单位及1965—2025年逐年数据；基本价值观的斜体与正文解说分开。",
+    "BNSF利润率与营业比率反向对应，未误译为数学倒数。",
+    "Bell Laboratories保留英文公司名，避免与电信业贝尔实验室混淆。",
+    "2026年7月原件引号未闭合，英文照录，中文补齐闭引号。",
+    "2026年11月原件公司介绍跨页；单语版衔接成段，对照版保留来源页对应。",
+    "保留各信发布时的身份、预测及安排，不用后来的职务变更改写历史原文。",
+    "6又2/3岁、99.5%、股份数、捐赠比例和美元换算已核对。"
+  ]
+}

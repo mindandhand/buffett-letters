@@ -1,12 +1,12 @@
 {
-  "documents": 144,
-  "pages": 4457,
+  "documents": 165,
+  "pages": 4584,
   "all_documents_rendered": true,
   "all_pages_automatically_checked": true,
   "blank_pages": 0,
   "characters_outside_page": 0,
   "cjk_glyph_pixel_flags": 0,
-  "visual_review": "Representative title, body, wide table, bilingual transition and photograph pages inspected by the authoring assistant. Not an individual visual certification of every page.",
+  "visual_review": "Original 144 editions: representative title, body, wide table, bilingual transition and photograph pages inspected. Supplemental 21 editions: all 127 final pages viewed in overview sheets, selected details viewed at full size. Not independent human final layout review.",
   "independent_human_final_layout_review": false,
   "rendered_images_in_repository": false,
   "documents_checked": [
@@ -36812,6 +36812,1190 @@
           "page": 11,
           "characters": 3768,
           "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        }
+      ]
+    },
+    {
+      "file": "中文版/2025-05-05-CEO-Succession.docx",
+      "word_sha256": "1ad02c87d93cb4ec5898e5c5673593e594eeac105a30ed5e09fe2fbb5194da09",
+      "pages": 1,
+      "flags": [],
+      "page_checks": [
+        {
+          "page": 1,
+          "characters": 381,
+          "cjk_characters": 265,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        }
+      ]
+    },
+    {
+      "file": "英文版/2025-05-05-CEO-Succession.docx",
+      "word_sha256": "179051712aeee793201cd94f4d6b9e6df569366c32f2f35340a09d859f354f57",
+      "pages": 1,
+      "flags": [],
+      "page_checks": [
+        {
+          "page": 1,
+          "characters": 1152,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        }
+      ]
+    },
+    {
+      "file": "中英对照版/2025-05-05-CEO-Succession.docx",
+      "word_sha256": "7f50c14cb4c353346f93f71624a5a7f7685adfb50c42bc9903b474491efc3101",
+      "pages": 2,
+      "flags": [],
+      "page_checks": [
+        {
+          "page": 1,
+          "characters": 1297,
+          "cjk_characters": 127,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 2,
+          "characters": 227,
+          "cjk_characters": 148,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        }
+      ]
+    },
+    {
+      "file": "中文版/2025-06-27-Buffett-Philanthropy.docx",
+      "word_sha256": "565fc62463e15392a3f718180ebf342f019053fb5dce98217a4e44eace005f37",
+      "pages": 1,
+      "flags": [],
+      "page_checks": [
+        {
+          "page": 1,
+          "characters": 899,
+          "cjk_characters": 629,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        }
+      ]
+    },
+    {
+      "file": "英文版/2025-06-27-Buffett-Philanthropy.docx",
+      "word_sha256": "ebe3aaa0709d6cce4cfccbb295c23d6b98c26b954a9ec0f70d059155b6773b23",
+      "pages": 1,
+      "flags": [],
+      "page_checks": [
+        {
+          "page": 1,
+          "characters": 2457,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        }
+      ]
+    },
+    {
+      "file": "中英对照版/2025-06-27-Buffett-Philanthropy.docx",
+      "word_sha256": "99a009eed88fde4e7c2c7c40f5afa9beeea7f97eabc04ce246039cde76e475fd",
+      "pages": 3,
+      "flags": [],
+      "page_checks": [
+        {
+          "page": 1,
+          "characters": 1905,
+          "cjk_characters": 18,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 2,
+          "characters": 1223,
+          "cjk_characters": 492,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 3,
+          "characters": 195,
+          "cjk_characters": 129,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        }
+      ]
+    },
+    {
+      "file": "中文版/2025-11-10-Buffett-Thanksgiving.docx",
+      "word_sha256": "221bc58ad15fef0167b3344b18e04ee6e610a5212d9e0a1a96279f04c396b65a",
+      "pages": 7,
+      "flags": [],
+      "page_checks": [
+        {
+          "page": 1,
+          "characters": 812,
+          "cjk_characters": 646,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 2,
+          "characters": 1173,
+          "cjk_characters": 967,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 3,
+          "characters": 1135,
+          "cjk_characters": 917,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 4,
+          "characters": 1068,
+          "cjk_characters": 925,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 5,
+          "characters": 1107,
+          "cjk_characters": 984,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 6,
+          "characters": 1150,
+          "cjk_characters": 1017,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 7,
+          "characters": 504,
+          "cjk_characters": 406,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        }
+      ]
+    },
+    {
+      "file": "英文版/2025-11-10-Buffett-Thanksgiving.docx",
+      "word_sha256": "e9442611c4368ba06fe123266786d442f310786dd46e5173c98e40c752fd27d6",
+      "pages": 6,
+      "flags": [],
+      "page_checks": [
+        {
+          "page": 1,
+          "characters": 2906,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 2,
+          "characters": 3709,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 3,
+          "characters": 3571,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 4,
+          "characters": 3716,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 5,
+          "characters": 3709,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 6,
+          "characters": 3080,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        }
+      ]
+    },
+    {
+      "file": "中英对照版/2025-11-10-Buffett-Thanksgiving.docx",
+      "word_sha256": "ce0d31edc3fc0f28355f6d2cbd3c9cd60b83472b37847c9443ae2ee91e0154c8",
+      "pages": 16,
+      "flags": [],
+      "page_checks": [
+        {
+          "page": 1,
+          "characters": 1494,
+          "cjk_characters": 19,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 2,
+          "characters": 1008,
+          "cjk_characters": 445,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 3,
+          "characters": 2457,
+          "cjk_characters": 83,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 4,
+          "characters": 1538,
+          "cjk_characters": 701,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 5,
+          "characters": 1879,
+          "cjk_characters": 206,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 6,
+          "characters": 1835,
+          "cjk_characters": 429,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 7,
+          "characters": 1658,
+          "cjk_characters": 426,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 8,
+          "characters": 2400,
+          "cjk_characters": 111,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 9,
+          "characters": 1339,
+          "cjk_characters": 810,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 10,
+          "characters": 2446,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 11,
+          "characters": 887,
+          "cjk_characters": 781,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 12,
+          "characters": 2551,
+          "cjk_characters": 4,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 13,
+          "characters": 1481,
+          "cjk_characters": 753,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 14,
+          "characters": 2195,
+          "cjk_characters": 163,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 15,
+          "characters": 1566,
+          "cjk_characters": 613,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 16,
+          "characters": 952,
+          "cjk_characters": 370,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        }
+      ]
+    },
+    {
+      "file": "中文版/2026-02-28-Greg-Abel-2025-Annual-Letter.docx",
+      "word_sha256": "5b6287b712b6497acae755c0840ad45666b17ace68defe238251970fca5083ac",
+      "pages": 17,
+      "flags": [],
+      "page_checks": [
+        {
+          "page": 1,
+          "characters": 1032,
+          "cjk_characters": 899,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 2,
+          "characters": 1076,
+          "cjk_characters": 914,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 3,
+          "characters": 858,
+          "cjk_characters": 760,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 4,
+          "characters": 993,
+          "cjk_characters": 865,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 5,
+          "characters": 1019,
+          "cjk_characters": 852,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 6,
+          "characters": 1000,
+          "cjk_characters": 904,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 7,
+          "characters": 1020,
+          "cjk_characters": 880,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 8,
+          "characters": 948,
+          "cjk_characters": 784,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 9,
+          "characters": 1072,
+          "cjk_characters": 870,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 10,
+          "characters": 1139,
+          "cjk_characters": 948,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 11,
+          "characters": 1012,
+          "cjk_characters": 862,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 12,
+          "characters": 845,
+          "cjk_characters": 572,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 13,
+          "characters": 900,
+          "cjk_characters": 728,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 14,
+          "characters": 1036,
+          "cjk_characters": 874,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 15,
+          "characters": 352,
+          "cjk_characters": 44,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 16,
+          "characters": 384,
+          "cjk_characters": 100,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 17,
+          "characters": 283,
+          "cjk_characters": 31,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        }
+      ]
+    },
+    {
+      "file": "英文版/2026-02-28-Greg-Abel-2025-Annual-Letter.docx",
+      "word_sha256": "a7f9b50eae6eb099e8eeea9d6788a2895583d62e07a253b677f27c909405c368",
+      "pages": 15,
+      "flags": [],
+      "page_checks": [
+        {
+          "page": 1,
+          "characters": 4000,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 2,
+          "characters": 3626,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 3,
+          "characters": 3773,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 4,
+          "characters": 3569,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 5,
+          "characters": 3968,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 6,
+          "characters": 3725,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 7,
+          "characters": 3722,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 8,
+          "characters": 3873,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 9,
+          "characters": 4005,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 10,
+          "characters": 3911,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 11,
+          "characters": 2045,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 12,
+          "characters": 3803,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 13,
+          "characters": 2483,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 14,
+          "characters": 665,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 15,
+          "characters": 425,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        }
+      ]
+    },
+    {
+      "file": "中英对照版/2026-02-28-Greg-Abel-2025-Annual-Letter.docx",
+      "word_sha256": "0db921d62a7c3c37bf4a17047d4676a217d4264699e3b4f0397060c289a9e3f6",
+      "pages": 40,
+      "flags": [],
+      "page_checks": [
+        {
+          "page": 1,
+          "characters": 2382,
+          "cjk_characters": 19,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 2,
+          "characters": 1372,
+          "cjk_characters": 744,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 3,
+          "characters": 2475,
+          "cjk_characters": 66,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 4,
+          "characters": 1187,
+          "cjk_characters": 673,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 5,
+          "characters": 2061,
+          "cjk_characters": 109,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 6,
+          "characters": 1237,
+          "cjk_characters": 606,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 7,
+          "characters": 2450,
+          "cjk_characters": 36,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 8,
+          "characters": 1270,
+          "cjk_characters": 736,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 9,
+          "characters": 2428,
+          "cjk_characters": 4,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 10,
+          "characters": 924,
+          "cjk_characters": 653,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 11,
+          "characters": 2840,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 12,
+          "characters": 967,
+          "cjk_characters": 806,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 13,
+          "characters": 2316,
+          "cjk_characters": 67,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 14,
+          "characters": 1371,
+          "cjk_characters": 540,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 15,
+          "characters": 2104,
+          "cjk_characters": 187,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 16,
+          "characters": 1594,
+          "cjk_characters": 475,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 17,
+          "characters": 1907,
+          "cjk_characters": 411,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 18,
+          "characters": 1875,
+          "cjk_characters": 184,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 19,
+          "characters": 1344,
+          "cjk_characters": 379,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 20,
+          "characters": 1906,
+          "cjk_characters": 211,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 21,
+          "characters": 1636,
+          "cjk_characters": 440,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 22,
+          "characters": 2328,
+          "cjk_characters": 242,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 23,
+          "characters": 1296,
+          "cjk_characters": 532,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 24,
+          "characters": 2464,
+          "cjk_characters": 120,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 25,
+          "characters": 1295,
+          "cjk_characters": 697,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 26,
+          "characters": 2444,
+          "cjk_characters": 4,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 27,
+          "characters": 1164,
+          "cjk_characters": 685,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 28,
+          "characters": 2099,
+          "cjk_characters": 4,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 29,
+          "characters": 836,
+          "cjk_characters": 491,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 30,
+          "characters": 1875,
+          "cjk_characters": 4,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 31,
+          "characters": 1107,
+          "cjk_characters": 347,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 32,
+          "characters": 2277,
+          "cjk_characters": 240,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 33,
+          "characters": 1455,
+          "cjk_characters": 663,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 34,
+          "characters": 1871,
+          "cjk_characters": 306,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 35,
+          "characters": 495,
+          "cjk_characters": 132,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 36,
+          "characters": 480,
+          "cjk_characters": 46,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 37,
+          "characters": 342,
+          "cjk_characters": 19,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 38,
+          "characters": 448,
+          "cjk_characters": 41,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 39,
+          "characters": 449,
+          "cjk_characters": 46,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 40,
+          "characters": 370,
+          "cjk_characters": 31,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        }
+      ]
+    },
+    {
+      "file": "中文版/2026-07-14-Buffett-Philanthropy.docx",
+      "word_sha256": "079079156d8e722dfb6a7d3a24f6d7b92c3dd3593eef7d8ecfc4d86620e1394c",
+      "pages": 1,
+      "flags": [],
+      "page_checks": [
+        {
+          "page": 1,
+          "characters": 593,
+          "cjk_characters": 400,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        }
+      ]
+    },
+    {
+      "file": "英文版/2026-07-14-Buffett-Philanthropy.docx",
+      "word_sha256": "1446fb838503023938ba9a4a7761b56224a95fe5fdc52d902a09f77dff65572b",
+      "pages": 1,
+      "flags": [],
+      "page_checks": [
+        {
+          "page": 1,
+          "characters": 1615,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        }
+      ]
+    },
+    {
+      "file": "中英对照版/2026-07-14-Buffett-Philanthropy.docx",
+      "word_sha256": "5c7ea6ec53d682310d5151f28cc28e0d319c6393238ffdbd860b535dde676c2e",
+      "pages": 2,
+      "flags": [],
+      "page_checks": [
+        {
+          "page": 1,
+          "characters": 1597,
+          "cjk_characters": 22,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 2,
+          "characters": 581,
+          "cjk_characters": 388,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        }
+      ]
+    },
+    {
+      "file": "中文版/2026-09-18-Buffett-Chairman-Transition.docx",
+      "word_sha256": "bcb4eb8acbf7fe4d7bb01f87b4b961894e53908e3651e6227e6abdc9038e4b0a",
+      "pages": 2,
+      "flags": [],
+      "page_checks": [
+        {
+          "page": 1,
+          "characters": 777,
+          "cjk_characters": 611,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 2,
+          "characters": 642,
+          "cjk_characters": 561,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        }
+      ]
+    },
+    {
+      "file": "英文版/2026-09-18-Buffett-Chairman-Transition.docx",
+      "word_sha256": "ca90994380b9f80011a46cd6a50798c435aeb43f7ef64371eb288144c7922426",
+      "pages": 2,
+      "flags": [],
+      "page_checks": [
+        {
+          "page": 1,
+          "characters": 3311,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 2,
+          "characters": 1051,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        }
+      ]
+    },
+    {
+      "file": "中英对照版/2026-09-18-Buffett-Chairman-Transition.docx",
+      "word_sha256": "b4bba48db8548566d3407dc4039f7a309ef29eb98c347fb96215ec5e6bf925c5",
+      "pages": 4,
+      "flags": [],
+      "page_checks": [
+        {
+          "page": 1,
+          "characters": 2318,
+          "cjk_characters": 24,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 2,
+          "characters": 785,
+          "cjk_characters": 581,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 3,
+          "characters": 2000,
+          "cjk_characters": 22,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 4,
+          "characters": 642,
+          "cjk_characters": 561,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        }
+      ]
+    },
+    {
+      "file": "中文版/2026-11-16-Buffett-Thanksgiving.docx",
+      "word_sha256": "c2eca3597015db2ca56dfd5f3aaf1cc07ba0ce65190a8a37444399889cd238dd",
+      "pages": 1,
+      "flags": [],
+      "page_checks": [
+        {
+          "page": 1,
+          "characters": 779,
+          "cjk_characters": 589,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        }
+      ]
+    },
+    {
+      "file": "英文版/2026-11-16-Buffett-Thanksgiving.docx",
+      "word_sha256": "e0615f400358f61fd5bc851664b62d91ef6d98e6c5a2ad60f08d857fa6dd53b8",
+      "pages": 1,
+      "flags": [],
+      "page_checks": [
+        {
+          "page": 1,
+          "characters": 2275,
+          "cjk_characters": 0,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        }
+      ]
+    },
+    {
+      "file": "中英对照版/2026-11-16-Buffett-Thanksgiving.docx",
+      "word_sha256": "3b790162320d446641b868caa80178380dd3db4ec6e1265cc6354591584d6f85",
+      "pages": 3,
+      "flags": [],
+      "page_checks": [
+        {
+          "page": 1,
+          "characters": 1903,
+          "cjk_characters": 17,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 2,
+          "characters": 911,
+          "cjk_characters": 554,
+          "images": 0,
+          "width": 595.3,
+          "height": 841.9
+        },
+        {
+          "page": 3,
+          "characters": 232,
+          "cjk_characters": 34,
           "images": 0,
           "width": 595.3,
           "height": 841.9

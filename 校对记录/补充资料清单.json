@@ -26,8 +26,18 @@
       "sha256": "3795966a46a5c1402ed6ae29ae665359e663b39864ddba68b5d2fba2c90ab67d",
       "bytes": 197726,
       "source_status": "downloaded_and_pdf_checked",
-      "translation_status": "not_started",
-      "translated_editions": []
+      "translation_status": "complete",
+      "translated_editions": [
+        "中文版/2025-05-05-CEO-Succession.md",
+        "中文版/2025-05-05-CEO-Succession.docx",
+        "英文版/2025-05-05-CEO-Succession.md",
+        "英文版/2025-05-05-CEO-Succession.docx",
+        "中英对照版/2025-05-05-CEO-Succession.md",
+        "中英对照版/2025-05-05-CEO-Succession.docx"
+      ],
+      "edition_stem": "2025-05-05-CEO-Succession",
+      "translation_source_pages_complete": 1,
+      "review_record": "校对记录/补译审核.json"
     },
     {
       "id": "2025-06-27-buffett-philanthropy",
@@ -44,8 +54,18 @@
       "sha256": "27b8daaca43cb7d452493b5be203e576945a81fb9b7b0d2f6e3047d88d1a18ab",
       "bytes": 204848,
       "source_status": "downloaded_and_pdf_checked",
-      "translation_status": "not_started",
-      "translated_editions": []
+      "translation_status": "complete",
+      "translated_editions": [
+        "中文版/2025-06-27-Buffett-Philanthropy.md",
+        "中文版/2025-06-27-Buffett-Philanthropy.docx",
+        "英文版/2025-06-27-Buffett-Philanthropy.md",
+        "英文版/2025-06-27-Buffett-Philanthropy.docx",
+        "中英对照版/2025-06-27-Buffett-Philanthropy.md",
+        "中英对照版/2025-06-27-Buffett-Philanthropy.docx"
+      ],
+      "edition_stem": "2025-06-27-Buffett-Philanthropy",
+      "translation_source_pages_complete": 1,
+      "review_record": "校对记录/补译审核.json"
     },
     {
       "id": "2025-11-10-buffett-thanksgiving",
@@ -62,8 +82,18 @@
       "sha256": "be499afab992b9f77353b341efdcc2a01ce09ee702ad88dd24afb91a7f3b9316",
       "bytes": 325648,
       "source_status": "downloaded_and_pdf_checked",
-      "translation_status": "not_started",
-      "translated_editions": []
+      "translation_status": "complete",
+      "translated_editions": [
+        "中文版/2025-11-10-Buffett-Thanksgiving.md",
+        "中文版/2025-11-10-Buffett-Thanksgiving.docx",
+        "英文版/2025-11-10-Buffett-Thanksgiving.md",
+        "英文版/2025-11-10-Buffett-Thanksgiving.docx",
+        "中英对照版/2025-11-10-Buffett-Thanksgiving.md",
+        "中英对照版/2025-11-10-Buffett-Thanksgiving.docx"
+      ],
+      "edition_stem": "2025-11-10-Buffett-Thanksgiving",
+      "translation_source_pages_complete": 8,
+      "review_record": "校对记录/补译审核.json"
     },
     {
       "id": "2025-annual-letter-greg-abel",
@@ -80,8 +110,18 @@
       "sha256": "8a7daf30955673a0f39611857c7663ca84431a5af33ca900a6e715fa5a1584ad",
       "bytes": 91423,
       "source_status": "downloaded_and_pdf_checked",
-      "translation_status": "not_started",
-      "translated_editions": []
+      "translation_status": "complete",
+      "translated_editions": [
+        "中文版/2026-02-28-Greg-Abel-2025-Annual-Letter.md",
+        "中文版/2026-02-28-Greg-Abel-2025-Annual-Letter.docx",
+        "英文版/2026-02-28-Greg-Abel-2025-Annual-Letter.md",
+        "英文版/2026-02-28-Greg-Abel-2025-Annual-Letter.docx",
+        "中英对照版/2026-02-28-Greg-Abel-2025-Annual-Letter.md",
+        "中英对照版/2026-02-28-Greg-Abel-2025-Annual-Letter.docx"
+      ],
+      "edition_stem": "2026-02-28-Greg-Abel-2025-Annual-Letter",
+      "translation_source_pages_complete": 20,
+      "review_record": "校对记录/补译审核.json"
     },
     {
       "id": "2026-07-14-buffett-philanthropy",
@@ -98,8 +138,18 @@
       "sha256": "d1b4e93b2bef778767f27cb8eea1896b1fcb09899c211fbbb123da529e94ab46",
       "bytes": 206646,
       "source_status": "downloaded_and_pdf_checked",
-      "translation_status": "not_started",
-      "translated_editions": []
+      "translation_status": "complete",
+      "translated_editions": [
+        "中文版/2026-07-14-Buffett-Philanthropy.md",
+        "中文版/2026-07-14-Buffett-Philanthropy.docx",
+        "英文版/2026-07-14-Buffett-Philanthropy.md",
+        "英文版/2026-07-14-Buffett-Philanthropy.docx",
+        "中英对照版/2026-07-14-Buffett-Philanthropy.md",
+        "中英对照版/2026-07-14-Buffett-Philanthropy.docx"
+      ],
+      "edition_stem": "2026-07-14-Buffett-Philanthropy",
+      "translation_source_pages_complete": 1,
+      "review_record": "校对记录/补译审核.json"
     },
     {
       "id": "2026-09-18-buffett-transition",
@@ -116,8 +166,18 @@
       "sha256": "21bae239da559f1d85e1de027024923df373cf3977227aa6127a96e55add745f",
       "bytes": 110694,
       "source_status": "downloaded_and_pdf_checked",
-      "translation_status": "not_started",
-      "translated_editions": []
+      "translation_status": "complete",
+      "translated_editions": [
+        "中文版/2026-09-18-Buffett-Chairman-Transition.md",
+        "中文版/2026-09-18-Buffett-Chairman-Transition.docx",
+        "英文版/2026-09-18-Buffett-Chairman-Transition.md",
+        "英文版/2026-09-18-Buffett-Chairman-Transition.docx",
+        "中英对照版/2026-09-18-Buffett-Chairman-Transition.md",
+        "中英对照版/2026-09-18-Buffett-Chairman-Transition.docx"
+      ],
+      "edition_stem": "2026-09-18-Buffett-Chairman-Transition",
+      "translation_source_pages_complete": 2,
+      "review_record": "校对记录/补译审核.json"
     },
     {
       "id": "2026-11-16-buffett-thanksgiving",
@@ -134,8 +194,18 @@
       "sha256": "b9e2fd962805e7cd3d6b8ff301046669aa94a0044f9b7fd2a98bebd337967512",
       "bytes": 211935,
       "source_status": "downloaded_and_pdf_checked",
-      "translation_status": "not_started",
-      "translated_editions": []
+      "translation_status": "complete",
+      "translated_editions": [
+        "中文版/2026-11-16-Buffett-Thanksgiving.md",
+        "中文版/2026-11-16-Buffett-Thanksgiving.docx",
+        "英文版/2026-11-16-Buffett-Thanksgiving.md",
+        "英文版/2026-11-16-Buffett-Thanksgiving.docx",
+        "中英对照版/2026-11-16-Buffett-Thanksgiving.md",
+        "中英对照版/2026-11-16-Buffett-Thanksgiving.docx"
+      ],
+      "edition_stem": "2026-11-16-Buffett-Thanksgiving",
+      "translation_source_pages_complete": 2,
+      "review_record": "校对记录/补译审核.json"
     }
   ]
 }
