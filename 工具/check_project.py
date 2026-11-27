@@ -5,6 +5,7 @@ from pathlib import Path
 from urllib.parse import unquote
 from xml.etree import ElementTree as ET
 from build_word import plain
+from audit_collection import main as audit_collection
 ROOT=Path(__file__).resolve().parents[1]
 sha=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
 NS={'w':'http://schemas.openxmlformats.org/wordprocessingml/2006/main'}
@@ -77,6 +78,7 @@ def main():
  extra=sum(len(r['editions']) for r in supplements)
  report=dict(years=48,markdown_files=144+extra,word_files=144+extra,original_files=48+len(supplements),annual_original_files=48,supplemental_original_files=len(supplements),completed_supplemental_translations=sum(r['translation_status']=='complete' for r in supplements),source_hashes='passed',local_markdown_links='passed',word_text_preservation='passed',editions=results,supplemental_sources=supplements)
  (ROOT/'校对记录/项目检查.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
+ audit_collection()
  print(f'48 original annual translations / {144+extra} Markdown / {144+extra} Word / {48+len(supplements)} originals ({len(supplements)} supplemental): source hashes, links and Word text checks passed.')
 
 if __name__=='__main__':main()

@@ -45,3 +45,5 @@ python3 工具/check_project.py
 ```
 
 对应数据为`校对记录/补充对齐数据.json`。`build_word.py`不带参数会生成全部165份Word；`--stem 文件名`可仅生成指定补充资料。
+
+`check_project.py`同时调用`audit_collection.py`，核对55份资料的单语正文与对齐数据、中英对照正文、Markdown表格结构，以及Word与Markdown、已有渲染检查记录的哈希绑定。仅改Markdown后，需先更新对应对齐数据、生成对照版及Word，再重新渲染并更新Word检查记录；校验不会把旧渲染记录当作新稿认证。

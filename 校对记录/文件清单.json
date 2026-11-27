@@ -18,8 +18,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 16773,
-      "sha256": "0ba8c8e6d7588a4122961111c0c958e5a4047f1dd92da0394da685750e93af98"
+      "bytes": 16924,
+      "sha256": "c9c96edde4a58cbb78bb056678912115731f0dabf9924910cedc7230b6f8488b"
     },
     {
       "path": "中文版/1977.docx",
@@ -1438,8 +1438,13 @@
     },
     {
       "path": "工具/README.md",
-      "bytes": 2162,
-      "sha256": "71bc6e65e4cde1e6ab9c393d1eaf5447c03bf8374882a0cc5a78b92e716e97bf"
+      "bytes": 2550,
+      "sha256": "8e3b4042abe20be96d5031c06296670fd7afdc0bdc9ab61c4575b26681c14995"
+    },
+    {
+      "path": "工具/audit_collection.py",
+      "bytes": 4977,
+      "sha256": "ee9ed95c366a05d9a55b2ab4a2e5628199798e907ff445770fc55cf6026f7955"
     },
     {
       "path": "工具/build_bilingual.py",
@@ -1458,8 +1463,8 @@
     },
     {
       "path": "工具/check_project.py",
-      "bytes": 5159,
-      "sha256": "b487b90866fa10415fdbc9ba831fc59f4f6da6c016eeaf17d35f9f4a2fbf5823"
+      "bytes": 5233,
+      "sha256": "675e434270f5dbfd725c203ea3b331f252b17ad628166bbc33a12db648e74430"
     },
     {
       "path": "工具/fetch_supplements.py",
@@ -1745,6 +1750,16 @@
       "path": "校对记录/差异处理记录.json",
       "bytes": 46332,
       "sha256": "f3a7dd3106b40784d0960a9b0e42cfb2c0e86f125551519baa6a071eacce246f"
+    },
+    {
+      "path": "校对记录/总体审查报告.md",
+      "bytes": 4380,
+      "sha256": "ddfcab50b3ff743499bba6031dd0d3948032e3e7775fb4f02b13a755a94b3e70"
+    },
+    {
+      "path": "校对记录/总体检查.json",
+      "bytes": 6633,
+      "sha256": "cc46fc9aa30193bf8f8ebe59e0f52987663f17d5ce6c5575c657f2d249b8e6c9"
     },
     {
       "path": "校对记录/术语表.md",

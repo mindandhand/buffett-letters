@@ -1,0 +1,293 @@
+{
+  "documents": 55,
+  "annual_documents": 48,
+  "supplemental_documents": 7,
+  "annual_alignment_groups": 2271,
+  "supplemental_source_pages": 35,
+  "chinese_markdown_tables": 279,
+  "alignment_check": "passed (whitespace and heading markup ignored; body text retained)",
+  "markdown_table_structure": "passed",
+  "word_render_hash_binding": "passed",
+  "word_markdown_hash_binding": "passed",
+  "word_files": 165,
+  "rendered_word_pages": 4584,
+  "tracked_changes_macros_embedded_objects": "none found",
+  "semantic_review_scope": "Automated structural checks do not prove sentence meaning. See 总体审查报告.md for semantic sampling and inherited reviews.",
+  "records": [
+    {
+      "id": "1977",
+      "alignment_groups": 24,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "1978",
+      "alignment_groups": 35,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "1979",
+      "alignment_groups": 54,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "1980",
+      "alignment_groups": 60,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "1981",
+      "alignment_groups": 56,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "1982",
+      "alignment_groups": 65,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "1983",
+      "alignment_groups": 11,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "1984",
+      "alignment_groups": 96,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "1985",
+      "alignment_groups": 112,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "1986",
+      "alignment_groups": 111,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "1987",
+      "alignment_groups": 105,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "1988",
+      "alignment_groups": 102,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "1989",
+      "alignment_groups": 123,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "1990",
+      "alignment_groups": 132,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "1991",
+      "alignment_groups": 76,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "1992",
+      "alignment_groups": 95,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "1993",
+      "alignment_groups": 92,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "1994",
+      "alignment_groups": 78,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "1995",
+      "alignment_groups": 102,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "1996",
+      "alignment_groups": 93,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "1997",
+      "alignment_groups": 98,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "1998",
+      "alignment_groups": 17,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "1999",
+      "alignment_groups": 17,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2000",
+      "alignment_groups": 20,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2001",
+      "alignment_groups": 18,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2002",
+      "alignment_groups": 22,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2003",
+      "alignment_groups": 22,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2004",
+      "alignment_groups": 25,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2005",
+      "alignment_groups": 22,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2006",
+      "alignment_groups": 23,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2007",
+      "alignment_groups": 21,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2008",
+      "alignment_groups": 22,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2009",
+      "alignment_groups": 19,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2010",
+      "alignment_groups": 27,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2011",
+      "alignment_groups": 21,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2012",
+      "alignment_groups": 23,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2013",
+      "alignment_groups": 23,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2014",
+      "alignment_groups": 42,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2015",
+      "alignment_groups": 30,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2016",
+      "alignment_groups": 28,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2017",
+      "alignment_groups": 16,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2018",
+      "alignment_groups": 14,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2019",
+      "alignment_groups": 13,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2020",
+      "alignment_groups": 14,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2021",
+      "alignment_groups": 11,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2022",
+      "alignment_groups": 10,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2023",
+      "alignment_groups": 16,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2024",
+      "alignment_groups": 15,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2025-05-05-ceo-succession",
+      "alignment_pages": 1,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2025-06-27-buffett-philanthropy",
+      "alignment_pages": 1,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2025-11-10-buffett-thanksgiving",
+      "alignment_pages": 8,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2025-annual-letter-greg-abel",
+      "alignment_pages": 20,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2026-07-14-buffett-philanthropy",
+      "alignment_pages": 1,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2026-09-18-buffett-transition",
+      "alignment_pages": 2,
+      "three_edition_alignment": "passed"
+    },
+    {
+      "id": "2026-11-16-buffett-thanksgiving",
+      "alignment_pages": 2,
+      "three_edition_alignment": "passed"
+    }
+  ]
+}
