@@ -18,8 +18,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 12371,
-      "sha256": "b6e3da23cc3b002599380a4ba8e08560c261942195702d223120eca9e8515639"
+      "bytes": 14019,
+      "sha256": "852704c33f82d783f6251575878b1c6f721e79844a29335796f47b57f3eab5d8"
     },
     {
       "path": "中文版/1977.docx",
@@ -1222,6 +1222,41 @@
       "sha256": "ff21ab9407dec219757587b6ce6a1bf30e59cfff15bb21e81d1faaec7f97a8a7"
     },
     {
+      "path": "原始资料/2025-05-05-CEO-Succession.pdf",
+      "bytes": 197726,
+      "sha256": "3795966a46a5c1402ed6ae29ae665359e663b39864ddba68b5d2fba2c90ab67d"
+    },
+    {
+      "path": "原始资料/2025-06-27-Buffett-Philanthropy.pdf",
+      "bytes": 204848,
+      "sha256": "27b8daaca43cb7d452493b5be203e576945a81fb9b7b0d2f6e3047d88d1a18ab"
+    },
+    {
+      "path": "原始资料/2025-11-10-Buffett-Thanksgiving.pdf",
+      "bytes": 325648,
+      "sha256": "be499afab992b9f77353b341efdcc2a01ce09ee702ad88dd24afb91a7f3b9316"
+    },
+    {
+      "path": "原始资料/2026-02-28-Greg-Abel-2025-Annual-Letter.pdf",
+      "bytes": 91423,
+      "sha256": "8a7daf30955673a0f39611857c7663ca84431a5af33ca900a6e715fa5a1584ad"
+    },
+    {
+      "path": "原始资料/2026-07-14-Buffett-Philanthropy.pdf",
+      "bytes": 206646,
+      "sha256": "d1b4e93b2bef778767f27cb8eea1896b1fcb09899c211fbbb123da529e94ab46"
+    },
+    {
+      "path": "原始资料/2026-09-18-Buffett-Chairman-Transition.pdf",
+      "bytes": 110694,
+      "sha256": "21bae239da559f1d85e1de027024923df373cf3977227aa6127a96e55add745f"
+    },
+    {
+      "path": "原始资料/2026-11-16-Buffett-Thanksgiving.pdf",
+      "bytes": 211935,
+      "sha256": "b9e2fd962805e7cd3d6b8ff301046669aa94a0044f9b7fd2a98bebd337967512"
+    },
+    {
       "path": "图片/2010-source-page-22.png",
       "bytes": 651386,
       "sha256": "963d85b85cec2d877a29afe65e5d9806b449154b48923dc4567f8d29b0f768a6"
@@ -1263,8 +1298,8 @@
     },
     {
       "path": "工具/README.md",
-      "bytes": 1297,
-      "sha256": "e408f41dc482290e5e20c6e1a752ecf6c1f4a787fee72a92f8c1462df5107206"
+      "bytes": 1735,
+      "sha256": "1ccf95d44a161b98ef1492ebb4b9b9c9e1e7d9405f78fa6d07e7f1d840393d80"
     },
     {
       "path": "工具/build_bilingual.py",
@@ -1278,8 +1313,13 @@
     },
     {
       "path": "工具/check_project.py",
-      "bytes": 2637,
-      "sha256": "ed1871bfb1ae2a1f15d3a7d5cba17be2ad7c5736aa3e414a5915cd3ee622f586"
+      "bytes": 3594,
+      "sha256": "05c396369ea190825f7e94c9d6c7e5776a28350a4969f499a55395b8d2c8f23e"
+    },
+    {
+      "path": "工具/fetch_supplements.py",
+      "bytes": 1411,
+      "sha256": "07e2b464ae4b200cd5f836e77cb28ed0c08b6b4b4c5f2cee1584752a09564572"
     },
     {
       "path": "工具/requirements.txt",
@@ -1527,6 +1567,11 @@
       "sha256": "ec7dd1df3ecab00c30eee1602068028bb166f0872b5f10d5d63de115fc75b4a5"
     },
     {
+      "path": "校对记录/2025-2026资料说明.md",
+      "bytes": 3959,
+      "sha256": "5de61f7733b2f03cc2502c725aded6fd8957f84e89820305855da239435c5fc3"
+    },
+    {
       "path": "校对记录/Word排版检查.json",
       "bytes": 832705,
       "sha256": "21eacce1509fe3b9c08a6ac7634d7f0d06de97a08332379e9fef726848ed6b7e"
@@ -1567,6 +1612,11 @@
       "sha256": "d662eeb4cdd828a5bc1249c17c00c24ae0a7c6760b2fdd5b31b9e0e3138d92a8"
     },
     {
+      "path": "校对记录/补充资料清单.json",
+      "bytes": 6784,
+      "sha256": "d7060f269af0bf6340422c89c1fbab6f9e63722580fa17a34d84ec898305a108"
+    },
+    {
       "path": "校对记录/表格检查.json",
       "bytes": 47149,
       "sha256": "6f6df45f790d3bf31b7d64f2ba98a7470081c77f680d2ac1d2a35025e254129f"
@@ -1583,8 +1633,8 @@
     },
     {
       "path": "校对记录/项目检查.json",
-      "bytes": 53491,
-      "sha256": "e5be5e3284f6c69a80b48ab2505bccb60e29f712986c7a5597d7747aaa460634"
+      "bytes": 55632,
+      "sha256": "9b2dc12f362e554cd7028396bedf002a9254dc289e63f29592418f433a559530"
     },
     {
       "path": "英文版/1977.docx",
@@ -2065,6 +2115,11 @@
       "path": "英文版/2024.md",
       "bytes": 42388,
       "sha256": "81dd237f72fc4c5ef21adff37ed74fde9eee631558faae9ddc59ba8ca2a7d1ab"
+    },
+    {
+      "path": "英文版/2025-2026-资料索引.md",
+      "bytes": 2134,
+      "sha256": "a41d72d7159463e29fefa9f294c6c051b34aff836acb596cb89f73f2b8e6fe25"
     }
   ]
 }

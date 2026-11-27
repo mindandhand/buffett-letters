@@ -43,8 +43,19 @@ def main():
    if link.startswith(('https:','http:','mailto:','#')):continue
    target=unquote(link.split('#',1)[0]);assert (md.parent/target).exists(),(str(md),link)
  assert len(results)==144
- report=dict(years=48,markdown_files=144,word_files=144,original_files=48,source_hashes='passed',local_markdown_links='passed',word_text_preservation='passed',editions=results)
+ supplement_path=ROOT/'校对记录/补充资料清单.json';supplements=[]
+ if supplement_path.exists():
+  data=json.loads(supplement_path.read_text());seen=set()
+  for r in data['documents']:
+   assert r['id'] not in seen;seen.add(r['id'])
+   source=(ROOT/r['source_file']).resolve();assert source.is_relative_to(ROOT)
+   assert source.is_file() and source.read_bytes().startswith(b'%PDF-')
+   assert sha(source)==r['sha256'] and source.stat().st_size==r['bytes']
+   assert re.fullmatch(r'202[56]-\d\d-\d\d',r['publication_date'])
+   assert r['translation_status']=='not_started' and r['translated_editions']==[]
+   supplements.append(dict(id=r['id'],source_file=r['source_file'],sha256=r['sha256'],source_status='passed',translation_status=r['translation_status']))
+ report=dict(years=48,markdown_files=144,word_files=144,original_files=48+len(supplements),annual_original_files=48,supplemental_original_files=len(supplements),source_hashes='passed',local_markdown_links='passed',word_text_preservation='passed',editions=results,supplemental_sources=supplements)
  (ROOT/'校对记录/项目检查.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
- print('48 years / 144 Markdown / 144 Word / 48 originals: source hashes, links and Word text checks passed.')
+ print(f'48 annual translations / 144 Markdown / 144 Word / {48+len(supplements)} originals ({len(supplements)} supplemental): source hashes, links and Word text checks passed.')
 
 if __name__=='__main__':main()
